@@ -8,7 +8,7 @@ The sample is currently hosted on https://erp.nuncho.com
 This ERP has builtin Help within the applications and additional help can be found on https://wiki.nuncho.com
 This ERP Ecommerce Application is a monolith includes the following areas for managing businesses:
 
-Business Modules
+ERP Business Modules
 ==============================
 
 1. Human Resources
@@ -25,9 +25,23 @@ Business Modules
 12. Ecommerce Portal
 13. Electronic Data Interchange (EDI)
 
+Ecommerce Business Modules
+==============================
+1. Attributes Management
+2. Catalog Management
+3. Make to Order
+4. Configure To Order
+5. Order and Returns Management
+6. Multi Vendor Marketplace
+7. Administration
+8. Payment Gateway Integration
+9. Warehouse Integration
+10. Logistics Integration
+
 Main Modules
  
 Financials, Inventory, Procurement ,HR and Payroll,Project and Sales
+
 Inventory 
 o The module deals with the stock maintenance. Tracking of Stocks in and out, Goods
 conversions, transfers and adjustments. The system has the facility to maintain
@@ -48,6 +62,7 @@ flow statement, Financial budget.
 c. Ledgers, Trial balance, Ratio Analysis, Receivables and Payables, Ledger Query,
 Transaction type wise ledger values, Issued Cheque Listing,
 Daybook and bank book, MTD, YTD Balance sheet and P&L
+
 General
 A. Barcode Scanning, Touch Selection and Product Look up.
 B. Multiple mode of settlement.
@@ -267,20 +282,17 @@ Unless otherwise specified, the code samples are released under the [MIT license
 This software can be described as a complete business software solution.It has module such as sales , purchase  ,inventory,Accounts. please check below demo link.
  
 Project Demo
-https://adroitclouderp.com/cloud-erp-free-trail/index.html
+https://erp.nuncho.com
 
 Username:  ADMIN
 Password:  123 
 
 Website 
-http://adroitclouderp.com/
+http://nuncho.com/
  
 
-Clients:
-Althahabi Atuo Spare Parts, Sharjah, UAE
-buhairat kalbal spare parts,fujairah,Dubai
----------------------------------------------------------
 # Role Based Access Control - User Management Microservice
+===========================================================
 
 #### Overview
 >The need to manage a user base for an online system is very frequent.
