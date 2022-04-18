@@ -246,6 +246,9 @@ Sofware Requirements
 
 1. Projects Management Module
 2. Help Desk Module
+3. Multi Currency
+4. Multi Language
+5. Multiple Operating Units
 
 # Issues
 
@@ -552,5 +555,14 @@ given the menu/class management and
 permissions functionality that's built into the BlueSeer framework.
 </br>
 
+
+# Services
+===================================
+Assessment
+ERP Implementation Services
+ERP Customization
+Custom Software Development
+Education
+Support
 
 ---------------------------------------------------------------
