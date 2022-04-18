@@ -321,31 +321,6 @@ http://nuncho.com/
 # Role Based Access Control - User Management Microservice
 ===========================================================
 
-#### Overview
->The need to manage a user base for an online system is very frequent.
-Goal of this project is to offer a generic user's data management microservice.
-
-This microservice can offer a good and solid starting point for managing your accounts.
-Thanks to this Role Based Access Control implementation it's easy to define roles and permissions for your specific application/prototype and subsequently apply these access rules on the users.
-
-This project lends itself very well to implement new prototypes or to create new solutions based on microservice architecture.
-
-The solution is thought using the Docker technologies with two different containers:
-* one Spring Boot REST Apis
-* one MySql 8.0 database
-
-The code has been well tested (> 115 tests) using JUnit and Mockito, H2 in memory database and some standard libraries for the integration tests.
-
-
-If you're using this software or a part of it, please support this open source with a small donation here:
-
-<a href="https://www.buymeacoffee.com/andreag" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-I'm not working at the moment... Thanks!
-
-#### Exposed REST apis
-Here below the most relevant features exposed using REST Apis:
-
 #### User management features
 
 * Register a new user account
@@ -373,6 +348,8 @@ Here below the most relevant features exposed using REST Apis:
 * Delete not used permission
 * Api to generate a salt random value to encrypt password (configuration)
 * ----------------------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/103935509/163830612-8ebc4c2e-cb0c-4e66-92e7-17b7ae291b0a.png)
 
 
 ## UPGRADING
