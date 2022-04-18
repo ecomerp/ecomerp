@@ -20,7 +20,6 @@ Our ERP provides modules for the following generic set of business concepts :
 * Accounts Receivable Processing and Aging
 * Accounts Payable Processing and Aging
 * PayRoll
-* 
 * Inventory Control
 * Job Tracking
 * Lot Traceability
@@ -66,17 +65,19 @@ Main Modules
 Financials, Inventory, Procurement ,HR and Payroll,Project and Sales
 
 Inventory 
-o The module deals with the stock maintenance. Tracking of Stocks in and out, Goods
-conversions, transfers and adjustments. The system has the facility to maintain
+o The module deals with the stock maintenance. Tracking of Stocks in and out, Goods conversions, transfers and adjustments. The system has the facility to maintain
 stocks in batches with manufacture and expiry dates tracking.
+
 Procurement 
 o The module deals with purchase request, sending Purchase requests to multiple
 suppliers, receiving quotations, comparing quotations and generating Purchase
 orders to suppliers.
+
 Sales 
 o Sales deals with sales done from back office with sales enquiry, quotation, Stock
 reservation, Sales order, delivery, invoice. Packing list and commercial invoice is
 included for Export customers.
+
 Financials 
 a. Account grouping, Chart of accounts Control Account concept.
 b. Accounting Vouchers, Prepayments. Bank reconciliation, External Bill matching, PDC
@@ -96,6 +97,7 @@ F. System supports levels of discount definitions.
 G. Access Control and Audit trial.
  
 Main Features
+
 1.	Part no wise item search
 2.	Sales quotation creation,performa invoice
 3.	cash sales,credit sales,export sales,receipt
@@ -106,6 +108,7 @@ Main Features
 8.	average cost calculation
 9.	financial year closing
 10.	advance receipt
+
 •	Purchase
 1.	Goods Receive Note
 2.	Purchase Comparison
@@ -115,6 +118,7 @@ Main Features
 6.	Purchase Requisition
 7.	Purchase Return
 8.	Supplier Master
+
 •	Sales
 1.	Cash Sales
 2.	Cash Sales Return
@@ -129,6 +133,7 @@ Main Features
 11.	Sales Order
 12.	Sales Quotation
 13.	Shipment Export Sales
+
 •	Inventory
 1.	Brand Master
 2.	HS Code
@@ -141,6 +146,7 @@ Main Features
 9.	Stock Request
 10.	Stock Transfer
 11.	Unit Master
+
 •	Accounts
 1.	Bank Payment
 2.	Bank Reconcile
@@ -152,6 +158,7 @@ Main Features
 8.	Prepaid Expenses
 9.	Receipt
 10.	Receipt Advance
+
 •	HR & Payroll
 1.	Advance Loan
 2.	Attendance
@@ -164,8 +171,10 @@ Main Features
 9.	Payroll
 10.	Season
 11.	Shift
+
 •	Project
 1.	Project
+
 •	Control Panel
 1.	Account Settings
 2.	Authorization
@@ -180,9 +189,11 @@ Main Features
 11.	Role Assignment
 12.	Roles
 13.	Users
+
 •	Tax
 1.	Salary Tax
 2.	Tax Master
+
 •	Reports
 a.	Cash Sales Report
 Cash Sales Return
