@@ -6,176 +6,25 @@ Enterprise Resource Planning System is a complete ERP system to support small an
 The software can be used to manage both backend and front-end operations of all kinds of institutions and organisations.
 The sample is currently hosted on https://erp.nuncho.com
 This ERP has builtin Help within the applications and additional help can be found on https://wiki.nuncho.com
-
-Completed or Activated Modules
-==============================
-
-1. Accounting
-2. Person Data
-3. Internal Payments (Payroll, Membership Fees, Dues and Contributions)
-4. Sales/Inventory
-5. Visits/Appointments
-6. Events Management
-7. Facility Rentals/Hospitality Management
-8. Learning/Performance Management System
-9. Self-Service
-10. e-Voting
-11. Chat Rooms/Forums
-12. Banking & Microfinance Module
-13. Vault Management Module
-14. Visit https://wiki.rhomicom.com/ for more info
-
-Typical Target institutions/organisations
-=========================================
-
-1. Hotels/Restaurants/Coffee shops
-2. Super Markets/Boutiques/Wholesale and Retail Shops
-3. Associations/Churches/Professional Bodies
-4. Construction Firms
-5. Academic Institutions
-
-System Features
-===============
-
-- Email/SMS Alerts
-- Import/Export to Excel
-- Responsive Design (Able to work on any Computer,Tablet, Phone)
-- Online Capable (Can be accessed anywhere in the world)
-- Summary Dashboards
-- Customizable Interfaces
-- Customizable Reports
-- Chat Rooms/Forums/Circulars/Announcements
-
-Sofware Requirements
-====================
-
-1. All Operating Systems
-2. PostgreSQL Database 9.3 or later (Can be hosted on any Operating System)
-3. Java 1.6 or later
-
-Hardware Requirements
-=====================
-
-Same hardware requirements for above Sofware requirements
-
-Technologies/Tools Used (Credits/Acknowledgements)
-==================================================
-
-1. Java 1.8 or later
-2. Spring Boot 2.2 or later
-3. ReactJS 16.8
-4. TIBCO JasperSoft Studio 6.2.0
-5. PostgreSQL Database 9.3 or later
-
-# TODO
-
-1. Projects Management Module
-2. Help Desk Module
-
-# Issues
-
-If you have any problems with or questions about this image, please contact us through a GitHub issue.
-
-# Contributing
-
-You are invited to contribute new features, fixes, or updates, large or small; we are always thrilled to receive pull requests, and do our best to process them as fast as we can.
-
-Before you start to code, we recommend discussing your plans through a GitHub issue, especially for more ambitious contributions. This gives other contributors a chance to point you in the right direction, give you feedback on your design, and help you find out if someone else is working on the same thing.
-
-# License
-
-This project is protected by propretory license
-
-
-# Others
-
-composer init
-
---------------------------------------------------------------------
-
 This ERP Ecommerce Application is a monolith includes the following areas for managing businesses:
 
-1. [Accounting](https://erpnext.com/open-source-accounting)
-1. [Warehouse Management](https://erpnext.com/distribution/warehouse-management-system)
-1. [CRM](https://erpnext.com/open-source-crm)
-1. [Sales](https://erpnext.com/open-source-sales-purchase)
-1. [Purchase](https://erpnext.com/open-source-sales-purchase)
-1. [HRMS](https://erpnext.com/open-source-hrms)
-1. [Project Management](https://erpnext.com/open-source-projects)
-1. [Support](https://erpnext.com/open-source-help-desk-software)
-1. [Asset Management](https://erpnext.com/open-source-asset-management-software)
-1. [Quality Management](https://erpnext.com/docs/user/manual/en/quality-management)
-1. [Manufacturing](https://erpnext.com/open-source-manufacturing-erp-software)
-1. [Website Management](https://erpnext.com/open-source-website-builder-software)
-1. [Customize ERPNext](https://erpnext.com/docs/user/manual/en/customize-erpnext)
-1. [And More](https://erpnext.com/docs/user/manual/en/)
+Business Modules
+==============================
 
-This ERP requires PostgresSQL.
+1. Human Resources
+2. Customer Relation Management
+3. Warehouse Management
+4. Transportation Management
+5. Manufacturing
+6. Performance Management
+7. Accounting Management
+8. Project Management
+9. CRM and Bid Management
+10. WebPOS
+11. Website Development
+12. Ecommerce Portal
+13. Electronic Data Interchange (EDI)
 
----------------------------------------------------------------------
-# Extensibility
-
-In this repository you will find information and code samples that allows you to understand how to use PRIMAVERA extensibility technology. This technology is the Visual Basic For Applications successor.
-
-###  Extensibility Principle
-
-In a ERP, extensibility is a tool that allows you to change the application business workflow or add extra business rules to implement your unique business processes.
-The key to extensibility is that you can develop pieces of code that best fit you customer business process and create the necessary functionality for themselves.
-
-With extensibility tools, you can:
-1) Add to a entity user-defined fields and user-defined tables.
-2) Change or add business rules at the user interface or API level.
-3) Add new items to the application menu.
-4) Add a new tab to an existing windows/entities.
-
-## Repository Organization
-
-This repository is organized in two sections, in the section **samples** you will found code samples that will help you understand how to use  the extensibility technology. In the section **Implementation** you will found real case solution to specialized market areas.
-
-### In Samples Section
-
-| Sample                                 | Descripition     |
-| :------------------------------------- | :--------------- |
-| [Custom Code](samples/Custom%20Code) | Uses the https://www.nif.pt/ API to create new entities. |
-| [Custom Events](samples/Custom%20Events) | Add to the sales invoice a zip code format validation and exports the document in to PDF. |
-| [Custom Form](samples/Custom%20Form) | List all sales document and allows perform drill-down to the source document and to the entity. |
-| [Custom Tab](samples/Custom%20Tabs) | Add a custom tab to customer entity. A Tab with goole maps integration. |
-| [Custom Ribbon](samples/Custom%20Ribbon) | Add's a new TAB on the ERP Ribbon. |
-| [Primavera Logger ](samples/Primavera%20Logger)| Log all the errors and events of your extensibility project. |
-| [Primavera.RelatedInfo](samples/Primavera.RelatedInfo) | Adds a new control to the invoice context panel to show the customer pending documents.|
-| [ScaleSample](samples/ScaleSample) | Provides an empty sample for dealing with scale within POS.|
-
-### In Implementation Section
-
-| Sample                                 | Descripition     |
-| :------------------------------------- | :--------------- |
-| [Fito Farmaceiticos](Implementation/SIFitofarmaceuticos) | Implementation Suggetion that handles the "Fitofarmacêuticos" portuguese legal requirements in a PRIMAVERA ERP V10 environment. |
-| [Developers Network ECHO Topic](Implementation\Primavera.Bot.DevelopersNetworkTopicSR1) | Implementation suggestion for an ECHO topic. |
-| [Geolocation Extension](Implementation/GeolocationExtension) | Implementation of the Geolocation extension for the ERP. |
-
-## Contributing and Feedback
-
-Everyone is free to contribute to the repository.
-
-Any bugs detected in the code samples can be reported in the *Issues* section of this repository.
-
-## License
-
-Unless otherwise specified, the code samples are released under the [MIT license](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT).
------------------------------------------------------------
- ERP Software
-  
-This software can be described as a complete business software solution.It has module such as sales , purchase  ,inventory,Accounts. please check below demo link.
- 
-Project Demo
-https://adroitclouderp.com/cloud-erp-free-trail/index.html
-
-Username:  ADMIN
-Password:  123 
-
-Website 
-http://adroitclouderp.com/
- 
 Main Modules
  
 Financials, Inventory, Procurement ,HR and Payroll,Project and Sales
@@ -342,15 +191,90 @@ ix.	Under Cost Sales Ledger
 x.	Sales Analysis
 xi.	Voucher Entires
 
+Technical Modules
+==============================
+
+1. Security Management
+2. Reports Management
+3. Batch Process Management
+4. Approvals Management
+5. Business Process Management
+6. Dashboard Management
+7. Self-Service
+8. Collaboration(Email, SMS, Chat and Calendar)
+9. Organization Structure
+10. Data Export / Import
+11. UI Extension
+
+Typical Target institutions/organisations
+=========================================
+
+1. Automotive
+2. Manufacturing
+3. Retail
+4. Logistics
+5. Healthcare
+6. Higher Education
 
 
-Technologies used : 
-ASP.Net Web API,C#,Node.JS,WebPack, ReactJS, ES6,Mobx,
-Bootstrap, Dapper ORM, Sql Server.
-Database: MS Sql 2008 R2.
-Reporting: Crystal report.
+Sofware Requirements
+====================
+1. Java 1.8 or later
+2. Spring Boot 2.2 or later
+3. ReactJS 16.8
+4. TIBCO JasperSoft Studio 6.2.0
+5. PostgreSQL Database 9.3 or later
+6. Ubuntu 18.01 LTS or later
+
+
+# TODO
+
+1. Projects Management Module
+2. Help Desk Module
+
+# Issues
+
+If you have any problems with or questions about this image, please contact us through a GitHub issue.
+
+# Contributing
+
+You are invited to contribute new features, fixes, or updates, large or small; we are always thrilled to receive pull requests, and do our best to process them as fast as we can.
+
+Before you start to code, we recommend discussing your plans through a GitHub issue, especially for more ambitious contributions. This gives other contributors a chance to point you in the right direction, give you feedback on your design, and help you find out if someone else is working on the same thing.
+
+# License
+
+This project is protected by propretory license
+
+---------------------------------------------------------------------
+# Extensibility
+
+In a ERP, extensibility is a tool that allows you to change the application business workflow or add extra business rules to implement your unique business processes.
+The key to extensibility is that you can develop pieces of code that best fit you customer business process and create the necessary functionality for themselves.
+
+With extensibility tools, you can:
+1) Add to a entity user-defined fields and user-defined tables.
+2) Change or add business rules at the user interface or API level.
+3) Add new items to the application menu.
+4) Add a new tab to an existing windows/entities.
+
+## License
+
+Unless otherwise specified, the code samples are released under the [MIT license](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT).
+-----------------------------------------------------------
+ ERP Software
+  
+This software can be described as a complete business software solution.It has module such as sales , purchase  ,inventory,Accounts. please check below demo link.
  
+Project Demo
+https://adroitclouderp.com/cloud-erp-free-trail/index.html
 
+Username:  ADMIN
+Password:  123 
+
+Website 
+http://adroitclouderp.com/
+ 
 
 Clients:
 Althahabi Atuo Spare Parts, Sharjah, UAE
@@ -410,83 +334,7 @@ Here below the most relevant features exposed using REST Apis:
 * Delete not used permission
 * Api to generate a salt random value to encrypt password (configuration)
 * ----------------------------------------------------------------
-* # DOLIBARR ERP & CRM
 
-![Downloads per day](https://img.shields.io/sourceforge/dw/dolibarr.svg)
-![Build status](https://img.shields.io/travis/Dolibarr/dolibarr/develop.svg)
-[![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%205.6-8892BF.svg?style=flat-square)](https://php.net/)
-[![GitHub release](https://img.shields.io/github/v/release/Dolibarr/dolibarr)](https://github.com/Dolibarr/dolibarr)
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5521/badge)](https://bestpractices.coreinfrastructure.org/projects/5521)
-
-Dolibarr ERP & CRM is a modern software package that helps manage your organization's activity (contacts, suppliers, invoices, orders, stocks, agenda…).
-
-It's an Open Source Software suite (written in PHP with optional JavaScript enhancements) designed for small, medium or large companies, foundations and freelancers.
-
-You can freely use, study, modify or distribute it according to its licence.
-
-You can use it as a standalone application or as a web application to access it from the Internet or a LAN.
-
-Dolibarr has a large community ready to help you, free forums and [preferred partners ready to offer commercial support should you need it](https://partners.dolibarr.org)
-
-![ScreenShot](https://www.dolibarr.org/medias/dolibarr_screenshot1_1920x1080.jpg)
-
-## LICENSE
-
-Dolibarr is released under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version (GPL-3+).
-
-See the [COPYING](https://github.com/Dolibarr/dolibarr/blob/develop/COPYING) file for a full copy of the license.
-
-Other licenses apply for some included dependencies. See [COPYRIGHT](https://github.com/Dolibarr/dolibarr/blob/develop/COPYRIGHT) for a full list.
-
-## INSTALLING
-
-### Simple setup
-
-If you have low technical skills and you're looking to install Dolibarr ERP/CRM in just a few clicks, you can use one of the packaged versions:
-
-- [DoliWamp for Windows](https://wiki.dolibarr.org/index.php/Dolibarr_for_Windows_DoliWamp)
-- [DoliDeb for Debian](https://wiki.dolibarr.org/index.php/Dolibarr_for_Ubuntu_or_Debian)
-- DoliRpm for Redhat, Fedora, OpenSuse, Mandriva or Mageia
-
-Releases can be downloaded from [official website](https://www.dolibarr.org/).
-
-### Advanced setup
-
-You can use a web server and a supported database (MariaDB, MySQL or PostgreSQL) to install the standard version.
-
-On GNU/Linux, first check if your distribution has already packaged Dolibarr.
-
-#### Generic install steps
-
-- Check that your installed PHP version is supported [see PHP support](https://wiki.dolibarr.org/index.php/Releases).
-
-- Uncompress the downloaded .zip archive to copy the "dolibarr/htdocs" directory and all its files inside your web server root or get the files directly from GitHub (recommanded if you know git as it makes it easier if you want to upgrade later):
-
-  `git clone https://github.com/dolibarr/dolibarr -b x.y`     (where x.y is main version like 3.6, 9.0, ...)
-
-- Set up your web server to use "*dolibarr/htdocs*" as root if your web server does not have an already defined directory to point to.
-
-- Create an empty `htdocs/conf/conf.php` file and set *write* permissions for your web server user (*write* permission will be removed once install is finished)
-
-- From your browser, go to the dolibarr "install/" page
-
-  The URL will depends on how you web setup was setup to point to your dolibarr installation. It may looks like:
-
-  `http://localhost/dolibarr/htdocs/install/`
-
-  or
-
-  `http://localhost/dolibarr/install/`
-
-  or
-
-  `http://yourdolibarrvirtualhost/install/`
-
-- Follow the installer instructions
-
-### Saas/Cloud setup
-
-If you don't have time to install it yourself, you can try some commercial 'ready to use' Cloud offers (See [https://saas.dolibarr.org](https://saas.dolibarr.org)). However, this third solution is not free.
 
 ## UPGRADING
 
@@ -609,19 +457,8 @@ See the [ChangeLog](https://github.com/Dolibarr/dolibarr/blob/develop/ChangeLog)
 - Flexible PDF & ODT generation for invoices, proposals, orders...
 - ...
 
-### System Environment / Requirements
 
-- PHP
-- MariaDB, MySQL or PostgreSQL
-- Compatible with all Cloud solutions that match PHP & MySQL or PostgreSQL prerequisites.
-
-See exact requirements on the [Wiki](https://wiki.dolibarr.org/index.php/Prerequisite)
-
-### Extending
-
-Dolibarr can be extended with a lot of other external application or modules from third party developers available at the [DoliStore](https://www.dolistore.com).
-
-## WHAT DOLIBARR CAN'T DO YET
+## WHAT this ERP CAN'T DO YET
 
 These are features that Dolibarr does **not** yet fully support:
 
@@ -634,20 +471,6 @@ These are features that Dolibarr does **not** yet fully support:
 
 Administrator, user, developer and translator's documentations are available along with other community resources in the [Wiki](https://wiki.dolibarr.org).
 
-## CONTRIBUTING
-
-This project exists thanks to all the people who contribute.
-Please read the instructions how to contribute (report a bug/error, a feature request, send code ...)  [[Contribute](https://github.com/Dolibarr/dolibarr/blob/develop/.github/CONTRIBUTING.md)]
-
-A view on Contributors:
-
-[![Dolibarr](https://opencollective.com/dolibarr/contributors.svg?width=890&button=false)](https://github.com/Dolibarr/dolibarr/graphs/contributors)
-
-## CREDITS
-
-Dolibarr is the work of many contributors over the years and uses some fine PHP libraries.
-
-See [COPYRIGHT](https://github.com/Dolibarr/dolibarr/blob/develop/COPYRIGHT) file.
 
 ## NEWS AND SOCIAL NETWORKS
 
