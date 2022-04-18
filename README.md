@@ -20,7 +20,7 @@ Our ERP provides modules for the following generic set of business concepts :
 * Accounts Receivable Processing and Aging
 * Accounts Payable Processing and Aging
 * PayRoll
-* APIs for system to system integration
+* 
 * Inventory Control
 * Job Tracking
 * Lot Traceability
@@ -243,6 +243,7 @@ Technical Modules
 9. Organization Structure
 10. Data Export / Import
 11. UI Extension
+12. REST APIs for integration
 
 Typical Target institutions/organisations
 =========================================
@@ -524,7 +525,7 @@ Follow Dolibarr project on:
 # Services
 
 - Need and Fitment Assessment
-- ERP Implementation Services
+- ERP Implementation Services (Fixed Price/Time & Material/Staff Augmentation)
 - ERP Customization
 - Custom Software Development
 - Education
