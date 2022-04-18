@@ -34,21 +34,138 @@ ERP Business Modules
 ==============================
 
 1. Human Resources
-2. Customer Relation Management
-3. Warehouse Management
-4. Transportation Management
-5. Manufacturing
-6. Performance Management
-7. Accounting Management
-8. Project Management
-9. CRM and Bid Management
-10. WebPOS
-11. Website Development
-12. Ecommerce Portal
-13. Electronic Data Interchange (EDI)
+2. •	HR & Payroll
+  1.	Advance Loan
+  2.	Attendance
+  3.	Deduction
+  4.	Employee
+  5.	Leave Category
+  6.	Leave policy
+  7.	Leave Request
+  8.	Other Request
+  9.	Payroll
+  10.	Season
+  11.	Shift
+ HR
+
+- Employee's leave requests management
+- Expense reports
+- Recruitment management
+- Timesheets
+
+3. Financials
+  •	Accounts
+  1.	Bank Payment
+  2.	Bank Reconcile
+  3.	Cash Deposit
+  4.	Cash Payment
+  5.	Cheque Deposit
+  6.	Journal Voucher
+  7.	Opening Balance
+  8.	Prepaid Expenses
+  9.	Receipt
+  10.	Receipt Advance
+ 
+ Finance / Accounting
+
+- Invoices / Payments
+- Bank accounts management
+- Direct debit orders management (European SEPA)
+- Accounting management
+- Donations management
+- Loan management
+- Margins
+- Reports
+
+4. Warehouse & Inventory Management
+5. •	Inventory
+  1.	Brand Master
+  2.	HS Code
+  3.	Item Category
+  4.	Item Inquiry
+  5.	Item Master
+  6.	ItemType
+  7.	Opening Stock
+  8.	Stock Adjustment
+  9.	Stock Request
+  10.	Stock Transfer
+  11.	Unit Master
+6. Purchase
+  1.	Goods Receive Note
+  2.	Purchase Comparison
+  3.	Purchase Invoice
+  4.	Purchase Order
+  5.	Purchase Post
+  6.	Purchase Requisition
+  7.	Purchase Return
+  8.	Supplier Master
+ 
+
+ Supplier/Purchase Management
+
+- Suppliers/Vendors + Contacts
+- Supplier (price) requests
+- Purchase Orders management
+- Delivery/Receiption
+- Supplier Invoices/credit notes and payment management
+- INCOTERMS
+
+7. Transportation Management
+8. Manufacturing
+9. Performance Management
+10. Accounting Management
+11. Project Management
+12. CRM and Bid Management
+13. •	Sales
+  1.	Cash Sales
+  2.	Cash Sales Return
+  3.	Credit Sales
+  4.	Credit Sales Return
+  5.	Customer Master
+  6.	Delivery Order
+  7.	Export Sales
+  8.	InvoicePost
+  9.	Proforma Invoice
+  10.	Sales CRM
+  11.	Sales Order
+  12.	Sales Quotation
+  13.	Shipment Export Sales
+ Customer/Sales Management
+
+- Customers/Prospects + Contacts management
+- Opportunities or Leads management
+- Commercial proposals management
+- Customer Orders management
+- Contracts/Subscription management
+- Interventions management
+- Ticket System
+- Shipping management
+- Customer Invoices/Credit notes and payment management
+- Point of Sale (POS)
+
+14. WebPOS
+15. Website Development
+16. Ecommerce Portal
+17. Electronic Data Interchange (EDI)
+18. Tax
+  1.	Salary Tax
+  2.	Tax Master
+19. Project
+  1.	Project
+  2.	Tasks
 
 Ecommerce Business Modules
 ==============================
+ Product Management
+
+- Products and/or Services catalog
+- Stock / Warehouse management + Inventory
+- Barcodes
+- Batches / Lots / Serials
+- Product Variants
+- Bill of Materials (BOM)
+- Manufacturing Orders
+
 1. Attributes Management
 2. Catalog Management
 3. Make to Order
@@ -59,6 +176,22 @@ Ecommerce Business Modules
 8. Payment Gateway Integration
 9. Warehouse Integration
 10. Logistics Integration
+
+Administration
+========================
+1.	Account Settings
+2.	Authorization
+3.	Branch
+4.	Chart Of Accounts
+5.	Currency
+6.	Department
+7.	DiaDyn Settings
+8.	Exchange Rate
+9.	Financial Year
+10.	Master Settings
+11.	Role Assignment
+12.	Roles
+13.	Users
 
 Main Modules
  
@@ -108,91 +241,6 @@ Main Features
 8.	average cost calculation
 9.	financial year closing
 10.	advance receipt
-
-•	Purchase
-1.	Goods Receive Note
-2.	Purchase Comparison
-3.	Purchase Invoice
-4.	Purchase Order
-5.	Purchase Post
-6.	Purchase Requisition
-7.	Purchase Return
-8.	Supplier Master
-
-•	Sales
-1.	Cash Sales
-2.	Cash Sales Return
-3.	Credit Sales
-4.	Credit Sales Return
-5.	Customer Master
-6.	Delivery Order
-7.	Export Sales
-8.	InvoicePost
-9.	Proforma Invoice
-10.	Sales CRM
-11.	Sales Order
-12.	Sales Quotation
-13.	Shipment Export Sales
-
-•	Inventory
-1.	Brand Master
-2.	HS Code
-3.	Item Category
-4.	Item Inquiry
-5.	Item Master
-6.	ItemType
-7.	Opening Stock
-8.	Stock Adjustment
-9.	Stock Request
-10.	Stock Transfer
-11.	Unit Master
-
-•	Accounts
-1.	Bank Payment
-2.	Bank Reconcile
-3.	Cash Deposit
-4.	Cash Payment
-5.	Cheque Deposit
-6.	Journal Voucher
-7.	Opening Balance
-8.	Prepaid Expenses
-9.	Receipt
-10.	Receipt Advance
-
-•	HR & Payroll
-1.	Advance Loan
-2.	Attendance
-3.	Deduction
-4.	Employee
-5.	Leave Category
-6.	Leave policy
-7.	Leave Request
-8.	Other Request
-9.	Payroll
-10.	Season
-11.	Shift
-
-•	Project
-1.	Project
-
-•	Control Panel
-1.	Account Settings
-2.	Authorization
-3.	Branch
-4.	Chart Of Accounts
-5.	Currency
-6.	Department
-7.	DiaDyn Settings
-8.	Exchange Rate
-9.	Financial Year
-10.	Master Settings
-11.	Role Assignment
-12.	Roles
-13.	Users
-
-•	Tax
-1.	Salary Tax
-2.	Tax Master
 
 •	Reports
 a.	Cash Sales Report
@@ -251,79 +299,16 @@ Technical Modules
 6. Dashboard Management
 7. Self-Service
 8. Collaboration(Email, SMS, Chat and Calendar)
-9. Organization Structure
-10. Data Export / Import
-11. UI Extension
-12. REST APIs for integration
-
-
-
-## FEATURES
-
-### Main application/modules (all optional)
-
-- Third-Parties Management: Customers, Prospects (Leads) and/or Suppliers + Contacts
-- Members/Membership/Foundation management
-
- Product Management
-
-- Products and/or Services catalog
-- Stock / Warehouse management + Inventory
-- Barcodes
-- Batches / Lots / Serials
-- Product Variants
-- Bill of Materials (BOM)
-- Manufacturing Orders
-
- Customer/Sales Management
-
-- Customers/Prospects + Contacts management
-- Opportunities or Leads management
-- Commercial proposals management
-- Customer Orders management
-- Contracts/Subscription management
-- Interventions management
-- Ticket System
-- Shipping management
-- Customer Invoices/Credit notes and payment management
-- Point of Sale (POS)
-
- Supplier/Purchase Management
-
-- Suppliers/Vendors + Contacts
-- Supplier (price) requests
-- Purchase Orders management
-- Delivery/Receiption
-- Supplier Invoices/credit notes and payment management
-- INCOTERMS
-
- Finance / Accounting
-
-- Invoices / Payments
-- Bank accounts management
-- Direct debit orders management (European SEPA)
-- Accounting management
-- Donations management
-- Loan management
-- Margins
-- Reports
-
  Collaboration
 
 - Shared calendar/agenda (with ical and vcal export for third party tools integration)
 - Projects & Tasks management
 - Ticket System
 - Surveys
-
- HR
-
-- Employee's leave requests management
-- Expense reports
-- Recruitment management
-- Timesheets
-
-### Other application/modules
-
+10. Organization Structure
+11. Data Export / Import
+12. UI Extension
+13. REST APIs for integration
 - Electronic Document Management (EDM)
 - Bookmarks management
 - Reporting
@@ -338,34 +323,6 @@ Technical Modules
 - Social platforms linking
 - Payment platforms integration (PayPal, Stripe, Paybox...)
 - Email-Collector
-
-(around 100 modules available by default, 1000+ on the addon market place)
-
-### Other general features
-
-- Localization in most major languages
-- Multi-Language Support
-- Multi-Users and groups with finely grained rights
-- Multi-Currency
-- Multi-Company (by adding of an external module)
-- Very user friendly and easy to use
-- customizable Dashboard
-- Highly customizable: enable only the modules you need, add user personalized fields, choose your skin, several menu managers (can be used by internal users as a back-office with a particular menu, or by external users as a front-office with another one)
-- APIs (REST, SOAP)
-- Code that is easy to understand, maintain and develop (PHP with no heavy framework; trigger and hook architecture)
-- Support a lot of country specific features:
-  - Spanish Tax RE and ISPF
-  - French NPR VAT rate (VAT called "Non Perçue Récupérable" for DOM-TOM)
-  - Canadian double taxes (federal/province) and other countries using cumulative VAT
-  - Tunisian tax stamp
-  - Argentina invoice numbering using A,B,C...
-  - Compatible with [European directives](https://europa.eu/legislation_summaries/taxation/l31057_en.htm) (2006/112/CE ... 2010/45/UE)
-  - Compatible with European GDPR rules
-  - ...
-- Flexible PDF & ODT generation for invoices, proposals, orders...
-- ...
-
-
 
 
 Typical Target institutions/organisations
@@ -396,6 +353,26 @@ Sofware Requirements
 3. Multi Currency
 4. Multi Language
 5. Multiple Operating Units
+- Localization in most major languages
+- Multi-Language Support
+- Multi-Users and groups with finely grained rights
+- Multi-Currency
+- Multi-Company (by adding of an external module)
+- Very user friendly and easy to use
+- customizable Dashboard
+- Highly customizable: enable only the modules you need, add user personalized fields, choose your skin, several menu managers (can be used by internal users as a back-office with a particular menu, or by external users as a front-office with another one)
+- APIs (REST, SOAP)
+- Code that is easy to understand, maintain and develop (PHP with no heavy framework; trigger and hook architecture)
+- Support a lot of country specific features:
+  - Spanish Tax RE and ISPF
+  - French NPR VAT rate (VAT called "Non Perçue Récupérable" for DOM-TOM)
+  - Canadian double taxes (federal/province) and other countries using cumulative VAT
+  - Tunisian tax stamp
+  - Argentina invoice numbering using A,B,C...
+  - Compatible with [European directives](https://europa.eu/legislation_summaries/taxation/l31057_en.htm) (2006/112/CE ... 2010/45/UE)
+  - Compatible with European GDPR rules
+- Flexible PDF & ODT generation for invoices, proposals, orders...
+
 
 # Issues
 
