@@ -1,12 +1,11 @@
-# Rhomicom-ERP-Web
+# Web Based Ecommerce and ERP Application
 
-Rhomicom Enterprise Resource Planning System (Web Version)
+Enterprise Resource Planning System (Web Version)
 
-Rhomicom Enterprise Resource Planning System is a complete ERP system proudly started in Ghana by Ghanaians.
-The company behind this project is Rhomicom Systems Tech. Ltd.(http://rhomicom.com)
+Enterprise Resource Planning System is a complete ERP system to support small and medium businesses.
 The software can be used to manage both backend and front-end operations of all kinds of institutions and organisations.
-The sample is currently hosted on https://portal.rhomicom.com
-Help can be found on https://wiki.rhomicom.com
+The sample is currently hosted on https://erp.nuncho.com
+This ERP has builtin Help within the applications and additional help can be found on https://wiki.nuncho.com
 
 Completed or Activated Modules
 ==============================
