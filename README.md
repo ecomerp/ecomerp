@@ -245,126 +245,7 @@ Technical Modules
 11. UI Extension
 12. REST APIs for integration
 
-Typical Target institutions/organisations
-=========================================
 
-1. Automotive
-2. Manufacturing
-3. Retail
-4. Logistics
-5. Healthcare
-6. Higher Education
-
-
-Sofware Requirements
-====================
-1. Java 1.8 or later
-2. Spring Boot 2.2 or later
-3. ReactJS 16.8
-4. TIBCO JasperSoft Studio 6.2.0
-5. PostgreSQL Database 9.3 or later
-6. Ubuntu 18.01 LTS or later
-
-
-# TODO
-
-1. Projects Management Module
-2. Help Desk Module
-3. Multi Currency
-4. Multi Language
-5. Multiple Operating Units
-
-# Issues
-
-If you have any problems with or questions about this image, please contact us through a GitHub issue.
-
-# Contributing
-
-You are invited to contribute new features, fixes, or updates, large or small; we are always thrilled to receive pull requests, and do our best to process them as fast as we can.
-
-Before you start to code, we recommend discussing your plans through a GitHub issue, especially for more ambitious contributions. This gives other contributors a chance to point you in the right direction, give you feedback on your design, and help you find out if someone else is working on the same thing.
-
-# License
-
-This project is protected by propretory license
-
----------------------------------------------------------------------
-# Extensibility
-
-In a ERP, extensibility is a tool that allows you to change the application business workflow or add extra business rules to implement your unique business processes.
-The key to extensibility is that you can develop pieces of code that best fit you customer business process and create the necessary functionality for themselves.
-
-With extensibility tools, you can:
-1) Add to a entity user-defined fields and user-defined tables.
-2) Change or add business rules at the user interface or API level.
-3) Add new items to the application menu.
-4) Add a new tab to an existing windows/entities.
-
-## License
-
-Unless otherwise specified, the code samples are released under the [MIT license](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT).
------------------------------------------------------------
- ERP Software
-  
-This software can be described as a complete business software solution.It has module such as sales , purchase  ,inventory,Accounts. please check below demo link.
- 
-Project Demo
-https://erp.nuncho.com
-
-Username:  ADMIN
-Password:  123 
-
-Website 
-http://nuncho.com/
- 
-
-# Role Based Access Control - User Management Microservice
-===========================================================
-
-#### User management features
-
-* Register a new user account
-* Login with username & password
-* Retrieve a single user account
-* Retrieve the list of all the existing user accounts
-* Update user account data (basic user data, contacts, address)
-* Add or remove a role on an user account
-* Delete a user account
-* Define secured accounts that cannot be deleted but only modified
-* Standard validation for email, phone, password
-
-#### RBAC features: manages roles and permissions
-
-* Retrieve all the permissions
-* Retrieve the list of the existing roles
-* Create a new role
-* Retrieve a single role
-* Delete a role
-* Add a permission on a role
-* Remove a permission on a role
-* Create a new permission
-* Update an existing permission (also enabled or disable it)
-* Retrieve single permission
-* Delete not used permission
-* Api to generate a salt random value to encrypt password (configuration)
-* ----------------------------------------------------------------
-
-![image](https://user-images.githubusercontent.com/103935509/163830612-8ebc4c2e-cb0c-4e66-92e7-17b7ae291b0a.png)
-
-
-## UPGRADING
-
-Dolibarr supports upgrading, usually without the need for any (commercial) support (depending on if you use any commercial extensions). It supports upgrading all the way from any version after 2.8 without breakage. This is unique in the ERP ecosystem and a benefit our users highly appreciate!
-
-- At first make a backup of your Dolibarr files & then [see](https://wiki.dolibarr.org/index.php/Installation_-_Upgrade#Upgrade_Dolibarr)
-- Check that your installed PHP version is supported by the new version [see PHP support](./doc/phpmatrix.md).
-- Overwrite all old files from 'dolibarr' directory with files provided into the new version's package.
-- At first next access, Dolibarr will redirect you to the "install/" page to follow the upgrade process.
-  If an `install.lock` file exists to lock any other upgrade process, the application will ask you to remove the file manually (you should find the `install.lock` file in the directory used to store generated and uploaded documents, in most cases, it is the directory called "*documents*").
-
-## WHAT'S NEW
-
-See the [ChangeLog](https://github.com/Dolibarr/dolibarr/blob/develop/ChangeLog) file.
 
 ## FEATURES
 
@@ -474,6 +355,115 @@ See the [ChangeLog](https://github.com/Dolibarr/dolibarr/blob/develop/ChangeLog)
 - ...
 
 
+
+
+Typical Target institutions/organisations
+=========================================
+
+1. Automotive
+2. Manufacturing
+3. Retail
+4. Logistics
+5. Healthcare
+6. Higher Education
+
+
+Sofware Requirements
+====================
+1. Java 1.8 or later
+2. Spring Boot 2.2 or later
+3. ReactJS 16.8
+4. TIBCO JasperSoft Studio 6.2.0
+5. PostgreSQL Database 9.3 or later
+6. Ubuntu 18.01 LTS or later
+
+
+# TODO
+
+1. Projects Management Module
+2. Help Desk Module
+3. Multi Currency
+4. Multi Language
+5. Multiple Operating Units
+
+# Issues
+
+If you have any problems with or questions about this image, please contact us through a GitHub issue.
+
+# Contributing
+
+You are invited to contribute new features, fixes, or updates, large or small; we are always thrilled to receive pull requests, and do our best to process them as fast as we can.
+
+Before you start to code, we recommend discussing your plans through a GitHub issue, especially for more ambitious contributions. This gives other contributors a chance to point you in the right direction, give you feedback on your design, and help you find out if someone else is working on the same thing.
+
+# License
+
+This project is protected by propretory license
+
+---------------------------------------------------------------------
+# Extensibility
+
+In a ERP, extensibility is a tool that allows you to change the application business workflow or add extra business rules to implement your unique business processes.
+The key to extensibility is that you can develop pieces of code that best fit you customer business process and create the necessary functionality for themselves.
+
+With extensibility tools, you can:
+1) Add to a entity user-defined fields and user-defined tables.
+2) Change or add business rules at the user interface or API level.
+3) Add new items to the application menu.
+4) Add a new tab to an existing windows/entities.
+
+## License
+
+Unless otherwise specified, the code samples are released under the [MIT license](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT).
+-----------------------------------------------------------
+ ERP Software
+  
+This software can be described as a complete business software solution.It has module such as sales , purchase  ,inventory,Accounts. please check below demo link.
+ 
+Project Demo
+https://erp.nuncho.com
+
+Username:  ADMIN
+Password:  123 
+
+Website 
+http://nuncho.com/
+ 
+
+# Role Based Access Control - User Management Microservice
+===========================================================
+
+#### User management features
+
+* Register a new user account
+* Login with username & password
+* Retrieve a single user account
+* Retrieve the list of all the existing user accounts
+* Update user account data (basic user data, contacts, address)
+* Add or remove a role on an user account
+* Delete a user account
+* Define secured accounts that cannot be deleted but only modified
+* Standard validation for email, phone, password
+
+#### RBAC features: manages roles and permissions
+
+* Retrieve all the permissions
+* Retrieve the list of the existing roles
+* Create a new role
+* Retrieve a single role
+* Delete a role
+* Add a permission on a role
+* Remove a permission on a role
+* Create a new permission
+* Update an existing permission (also enabled or disable it)
+* Retrieve single permission
+* Delete not used permission
+* Api to generate a salt random value to encrypt password (configuration)
+* ----------------------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/103935509/163830612-8ebc4c2e-cb0c-4e66-92e7-17b7ae291b0a.png)
+
+
 ## WHAT this ERP CAN'T DO YET
 
 These are features that Dolibarr does **not** yet fully support:
@@ -503,6 +493,7 @@ Follow Dolibarr project on:
 
 - Need and Fitment Assessment
 - ERP Implementation Services (Fixed Price/Time & Material/Staff Augmentation)
+- ERP Upgrade
 - ERP Customization
 - Custom Software Development
 - Education
