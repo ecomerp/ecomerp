@@ -8,17 +8,13 @@ The sample is currently hosted on https://erp.nuncho.com
 This ERP has builtin Help within the applications and additional help can be found on https://wiki.nuncho.com
 This ERP Ecommerce Application is a monolith includes the following areas for managing businesses:
 
-'''BlueSeer ERP''' is a Free open source ERP software package.  It was designed to meet the needs of
-the manufacturing community for an ERP system that is easily customizable and
+Our ERP was designed to meet the needs of the manufacturing community for an ERP system that is easily customizable and
 extendable while providing generic functionality that is typically observed in
-most manufacturing environments.  BlueSeer also provides a fully functional EDI mapping tool for EDI translations and file traffic monitoring. 
-BlueSeer is released for free use under the MIT License.   The application and source code
-are available for download at github.com.  The development of BlueSeer
-began in 2005, and the latest 'stable' release of version 6.1 was released on March 21st 2022.</br>
+most manufacturing environments. This ERP system also provides a fully functional EDI mapping tool for EDI translations and file traffic monitoring.
 
 <h1>Functionality</h1>
 
-BlueSeer provides modules for the following generic set of business concepts : 
+Our ERP provides modules for the following generic set of business concepts : 
 * Double Entry General Ledger
 * Cost Accounting
 * Accounts Receivable Processing and Aging
