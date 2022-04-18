@@ -557,12 +557,12 @@ permissions functionality that's built into the BlueSeer framework.
 
 
 # Services
-===================================
-Assessment
-ERP Implementation Services
-ERP Customization
-Custom Software Development
-Education
-Support
+
+- Need and Fitment Assessment
+- ERP Implementation Services
+- ERP Customization
+- Custom Software Development
+- Education
+- Support
 
 ---------------------------------------------------------------
