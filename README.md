@@ -200,49 +200,49 @@ Main Features
 
 •	Reports
 a.	Cash Sales Report
-Cash Sales Return
-Net Cash Sales
-Cash Sales Profit Analysis
-Date-wise Cash Sales Summary
-Month-wise Cash Sales Summary
-Cashier Reports
-Cash Book
+     Cash Sales Return
+     Net Cash Sales
+     Cash Sales Profit Analysis
+     Date-wise Cash Sales Summary
+     Month-wise Cash Sales Summary
+     Cashier Reports
+     Cash Book
 b.	Credit Sales Report
-i.	Credit Sales
-ii.	Credit Sales Return
-iii.	Net Credit Sales
-iv.	Credit Sales Profit Analysis
-v.	Date-wise Credit Sales Summary
-vi.	Month-wise Credit Sales Summary
+    i.	Credit Sales
+    ii.	Credit Sales Return
+    iii.	Net Credit Sales
+    iv.	Credit Sales Profit Analysis
+    v.	Date-wise Credit Sales Summary
+    vi.	Month-wise Credit Sales Summary
 c.	Export Sales
 d.	Financial Reports
-i.	Financial Reports
-ii.	Accounts Receivable
-iii.	Accounts Payable
-iv.	Employee Balance Report
-v.	Satement Of Account
+    i.	Financial Reports
+    ii.	Accounts Receivable
+    iii.	Accounts Payable
+    iv.	Employee Balance Report
+    v.	Satement Of Account
 e.	Financial Statements
-i.	Profit and Loss A/c
-ii.	Balance Sheet
-iii.	Balance Sheet (Horizonal)
-iv.	Trial Balance (as On Date)
-v.	Trial Balance (Movement)
-vi.	Trial Balance (Monthly)
+    i.	Profit and Loss A/c
+    ii.	Balance Sheet
+    iii.	Balance Sheet (Horizonal)
+    iv.	Trial Balance (as On Date)
+    v.	Trial Balance (Movement)
+    vi.	Trial Balance (Monthly)
 f.	Inventory Reports
-i.	Item Barcode
-ii.	Stock Register
+    i.	Item Barcode
+    ii.	Stock Register
 g.	Operation Reports
-i.	Daily Operation Report
-ii.	Daily Sales Report
-iii.	Salesman Wise Sales
-iv.	Daily Item Sales Ledger
-v.	Daily Item Purchase Ledger
-vi.	Salesman wise Report
-vii.	Itemwise Sales Profit Analysis Report
-viii.	Stock Register
-ix.	Under Cost Sales Ledger
-x.	Sales Analysis
-xi.	Voucher Entires
+    i.	Daily Operation Report
+    ii.	Daily Sales Report
+    iii.	Salesman Wise Sales
+    iv.	Daily Item Sales Ledger
+    v.	Daily Item Purchase Ledger
+    vi.	Salesman wise Report
+    vii.	Itemwise Sales Profit Analysis Report
+    viii.	Stock Register
+    ix.	Under Cost Sales Ledger
+    x.	Sales Analysis
+    xi.	Voucher Entires
 
 Technical Modules
 ==============================
