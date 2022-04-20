@@ -12,7 +12,7 @@ Our ERP was designed to meet the needs of the manufacturing community for an ERP
 extendable while providing generic functionality that is typically observed in
 most manufacturing environments. This ERP system also provides a fully functional EDI mapping tool for EDI translations and file traffic monitoring.
 
-<h1>Functionality</h1>
+
 
 Our ERP provides modules for the following generic set of business concepts : 
 * Double Entry General Ledger
@@ -30,11 +30,10 @@ Our ERP provides modules for the following generic set of business concepts :
 * Materials Resource Planning (MRP)
 * Human Resources (HR)
 
-ERP Business Modules
+<h1>ERP Business Modules</h1>
 ==============================
 
 1. Human Resources
-2. •	HR & Payroll
   1.	Advance Loan
   2.	Attendance
   3.	Deduction
@@ -46,15 +45,11 @@ ERP Business Modules
   9.	Payroll
   10.	Season
   11.	Shift
- HR
-
-- Employee's leave requests management
-- Expense reports
-- Recruitment management
-- Timesheets
+  12.	Expense reports
+  13.	Recruitment management
+  14.	Timesheets
 
 3. Financials
-  •	Accounts
   1.	Bank Payment
   2.	Bank Reconcile
   3.	Cash Deposit
@@ -65,22 +60,12 @@ ERP Business Modules
   8.	Prepaid Expenses
   9.	Receipt
   10.	Receipt Advance
- 
- Finance / Accounting
-
-- Invoices / Payments
-- Bank accounts management
-- Direct debit orders management (European SEPA)
-- Accounting management
-- Donations management
-- Loan management
-- Margins
-- Reports
+  11.	Payables MAnagement
+  12.	Receivables MAnagement
 
 4. Warehouse & Inventory Management
-5. •	Inventory
   1.	Brand Master
-  2.	HS Code
+  2.	Iteam Catalog
   3.	Item Category
   4.	Item Inquiry
   5.	Item Master
@@ -99,16 +84,7 @@ ERP Business Modules
   6.	Purchase Requisition
   7.	Purchase Return
   8.	Supplier Master
- 
 
- Supplier/Purchase Management
-
-- Suppliers/Vendors + Contacts
-- Supplier (price) requests
-- Purchase Orders management
-- Delivery/Receiption
-- Supplier Invoices/credit notes and payment management
-- INCOTERMS
 
 7. Transportation Management
 8. Manufacturing
@@ -117,33 +93,13 @@ ERP Business Modules
 11. Project Management
 12. CRM and Bid Management
 13. •	Sales
-  1.	Cash Sales
-  2.	Cash Sales Return
-  3.	Credit Sales
-  4.	Credit Sales Return
-  5.	Customer Master
-  6.	Delivery Order
-  7.	Export Sales
-  8.	InvoicePost
-  9.	Proforma Invoice
-  10.	Sales CRM
-  11.	Sales Order
-  12.	Sales Quotation
-  13.	Shipment Export Sales
- Customer/Sales Management
+  1.	Customers/Prospects + Contacts management
+  2.	Opportunities or Leads management
+  3.	Commercial proposals management
+  4.	Customer Orders management
+  5.	Contracts/Subscription management
+  6.	Web Point of Sale (POS)
 
-- Customers/Prospects + Contacts management
-- Opportunities or Leads management
-- Commercial proposals management
-- Customer Orders management
-- Contracts/Subscription management
-- Interventions management
-- Ticket System
-- Shipping management
-- Customer Invoices/Credit notes and payment management
-- Point of Sale (POS)
-
-14. WebPOS
 15. Website Development
 16. Ecommerce Portal
 17. Electronic Data Interchange (EDI)
