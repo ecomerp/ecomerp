@@ -183,6 +183,7 @@ Main Features
 
 <h3>Reports</h3>
 Cash Sales Report
+
 - Cash Sales Return
 - Net Cash Sales
 -  Cash Sales Profit Analysis
