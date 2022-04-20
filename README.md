@@ -181,7 +181,7 @@ Main Features
 9.	financial year closing
 10.	advance receipt
 
-•	Reports
+Reports
 a.	Cash Sales Report
      Cash Sales Return
      Net Cash Sales
