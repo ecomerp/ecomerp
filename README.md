@@ -182,14 +182,15 @@ Main Features
 10.	advance receipt
 
 <h3>Reports</h3>
-a.	Cash Sales Report
-     Cash Sales Return
-     Net Cash Sales
-     Cash Sales Profit Analysis
-     Date-wise Cash Sales Summary
-     Month-wise Cash Sales Summary
-     Cashier Reports
-     Cash Book
+Cash Sales Report
+- Cash Sales Return
+- Net Cash Sales
+-  Cash Sales Profit Analysis
+- Date-wise Cash Sales Summary
+- Month-wise Cash Sales Summary
+- Cashier Reports
+- Cash Book
+
 b.	Credit Sales Report
     i.	Credit Sales
     ii.	Credit Sales Return
