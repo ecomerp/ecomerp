@@ -33,7 +33,7 @@ Our ERP provides modules for the following generic set of business concepts :
 <h1>ERP Business Modules</h1>
 ==============================
 
-Human Resources
+<h3>Human Resources</h3>
 -  Advance Loan
 - Attendance
 - Deduction
