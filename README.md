@@ -11,24 +11,7 @@ This ERP Ecommerce Application is a monolith includes the following areas for ma
 Our ERP was designed to meet the needs of the manufacturing community for an ERP system that is easily customizable and
 extendable while providing generic functionality that is typically observed in
 most manufacturing environments. This ERP system also provides a fully functional EDI mapping tool for EDI translations and file traffic monitoring.
-
-
-
 Our ERP provides modules for the following generic set of business concepts : 
-* Double Entry General Ledger
-* Cost Accounting
-* Accounts Receivable Processing and Aging
-* Accounts Payable Processing and Aging
-* PayRoll
-* Inventory Control
-* Job Tracking
-* Lot Traceability
-* Order Management
-* Service Order and Quoting Management
-* Electronic Data Interchange (EDI)
-* UCC Label Generation
-* Materials Resource Planning (MRP)
-* Human Resources (HR)
 
 <h1>ERP Business Modules</h1>
 ==============================
