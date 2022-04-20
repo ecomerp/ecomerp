@@ -34,7 +34,6 @@ Our ERP provides modules for the following generic set of business concepts :
 ==============================
 
 <h3>Human Resources</h3>
--  Advance Loan
 - Attendance
 - Deduction
 - Employee
@@ -48,7 +47,8 @@ Our ERP provides modules for the following generic set of business concepts :
 - Recruitment management
 - Timesheets
 
-Financials
+
+<h3>Financials</h3>
 - Bank Payment
 - Bank Reconcile
 - Cash Deposit
@@ -62,7 +62,8 @@ Financials
 - Payables MAnagement
 - Receivables MAnagement
 
-Warehouse & Inventory Management
+
+<h3>Warehouse & Inventory Management</h3>
 - Brand Master
 - Iteam Catalog
 - Item Category
@@ -74,7 +75,8 @@ Warehouse & Inventory Management
 - Stock Request
 - Stock Transfer
 - Unit Master
-Purchase
+
+<h3>Purchase</h3>
 - Goods Receive Note
 - Purchase Comparison
 - Purchase Invoice
@@ -85,11 +87,11 @@ Purchase
 - Supplier Master
 
 
-Transportation Management
-Manufacturing
-Performance Management
-Project Management
-CRM and Bid Management(Sales)
+<h3>Transportation Management</h3>
+<h3>Manufacturing</h3>
+<h3>Performance Management</h3>
+<h3>Project Management</h3>
+<h3>CRM and Bid Management(Sales)</h3>
 - Customers/Prospects + Contacts management
 - Opportunities or Leads management
 - Commercial proposals management
@@ -97,13 +99,13 @@ CRM and Bid Management(Sales)
 - Contracts/Subscription management
 - Web Point of Sale (POS)
 
-Website Development
-Ecommerce Portal
-Electronic Data Interchange (EDI)
-Tax
+<h3>Website Development</h3>
+<h3>Ecommerce Portal</h3>
+<h3>Electronic Data Interchange (EDI)</h3>
+<h3>Tax</h3>
 - Salary Tax
 - Tax Master
-Project
+<h3>Project</h3>
 - Project
 - Tasks
 
