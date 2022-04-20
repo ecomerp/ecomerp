@@ -192,14 +192,17 @@ Cash Sales Report
 - Cashier Reports
 - Cash Book
 
-b.	Credit Sales Report
-    i.	Credit Sales
-    ii.	Credit Sales Return
-    iii.	Net Credit Sales
-    iv.	Credit Sales Profit Analysis
-    v.	Date-wise Credit Sales Summary
-    vi.	Month-wise Credit Sales Summary
-c.	Export Sales
+Credit Sales Report
+
+   - Credit Sales
+   - Credit Sales Return
+   - Net Credit Sales
+   - Credit Sales Profit Analysis
+   - Date-wise Credit Sales Summary
+   - Month-wise Credit Sales Summary
+
+Export Sales
+
 d.	Financial Reports
     i.	Financial Reports
     ii.	Accounts Receivable
