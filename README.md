@@ -33,82 +33,80 @@ Our ERP provides modules for the following generic set of business concepts :
 <h1>ERP Business Modules</h1>
 ==============================
 
-1. Human Resources
-  1.	Advance Loan
-  2.	Attendance
-  3.	Deduction
-  4.	Employee
-  5.	Leave Category
-  6.	Leave policy
-  7.	Leave Request
-  8.	Other Request
-  9.	Payroll
-  10.	Season
-  11.	Shift
-  12.	Expense reports
-  13.	Recruitment management
-  14.	Timesheets
+Human Resources
+-  Advance Loan
+- Attendance
+- Deduction
+- Employee
+- Leave Category
+- Leave policy
+- Leave Request
+- Other Request
+- Payroll
+- Shift
+- Expense reports
+- Recruitment management
+- Timesheets
 
-3. Financials
-  1.	Bank Payment
-  2.	Bank Reconcile
-  3.	Cash Deposit
-  4.	Cash Payment
-  5.	Cheque Deposit
-  6.	Journal Voucher
-  7.	Opening Balance
-  8.	Prepaid Expenses
-  9.	Receipt
-  10.	Receipt Advance
-  11.	Payables MAnagement
-  12.	Receivables MAnagement
+Financials
+- Bank Payment
+- Bank Reconcile
+- Cash Deposit
+- Cash Payment
+- Cheque Deposit
+- Journal Voucher
+- Opening Balance
+- Prepaid Expenses
+- Receipt
+- Receipt Advance
+- Payables MAnagement
+- Receivables MAnagement
 
-4. Warehouse & Inventory Management
-  1.	Brand Master
-  2.	Iteam Catalog
-  3.	Item Category
-  4.	Item Inquiry
-  5.	Item Master
-  6.	ItemType
-  7.	Opening Stock
-  8.	Stock Adjustment
-  9.	Stock Request
-  10.	Stock Transfer
-  11.	Unit Master
-6. Purchase
-  1.	Goods Receive Note
-  2.	Purchase Comparison
-  3.	Purchase Invoice
-  4.	Purchase Order
-  5.	Purchase Post
-  6.	Purchase Requisition
-  7.	Purchase Return
-  8.	Supplier Master
+Warehouse & Inventory Management
+- Brand Master
+- Iteam Catalog
+- Item Category
+- Item Inquiry
+- Item Master
+- ItemType
+- Opening Stock
+- Stock Adjustment
+- Stock Request
+- Stock Transfer
+- Unit Master
+Purchase
+- Goods Receive Note
+- Purchase Comparison
+- Purchase Invoice
+- Purchase Order
+- Purchase Post
+- Purchase Requisition
+- Purchase Return
+- Supplier Master
 
 
-7. Transportation Management
-8. Manufacturing
-9. Performance Management
-10. Accounting Management
-11. Project Management
-12. CRM and Bid Management
-13. •	Sales
-  1.	Customers/Prospects + Contacts management
-  2.	Opportunities or Leads management
-  3.	Commercial proposals management
-  4.	Customer Orders management
-  5.	Contracts/Subscription management
-  6.	Web Point of Sale (POS)
+Transportation Management
+Manufacturing
+Performance Management
+Project Management
+CRM and Bid Management(Sales)
+- Customers/Prospects + Contacts management
+- Opportunities or Leads management
+- Commercial proposals management
+- Customer Orders management
+- Contracts/Subscription management
+- Web Point of Sale (POS)
 
-15. Website Development
-16. Ecommerce Portal
-17. Electronic Data Interchange (EDI)
-18. Tax
-  1.	Salary Tax
-  2.	Tax Master
-19. Project
-  1.	Project
-  2.	Tasks
+Website Development
+Ecommerce Portal
+Electronic Data Interchange (EDI)
+Tax
+- Salary Tax
+- Tax Master
+Project
+- Project
+- Tasks
+
 
 Ecommerce Business Modules
 ==============================
