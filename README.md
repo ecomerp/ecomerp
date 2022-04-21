@@ -17,6 +17,7 @@ Our ERP provides modules for the following generic set of business concepts :
 ==============================
 
 <h3>Human Resources</h3>
+
 - Attendance
 - Deduction
 - Employee
@@ -32,6 +33,7 @@ Our ERP provides modules for the following generic set of business concepts :
 
 
 <h3>Financials</h3>
+
 - Bank Payment
 - Bank Reconcile
 - Cash Deposit
@@ -47,6 +49,7 @@ Our ERP provides modules for the following generic set of business concepts :
 
 
 <h3>Warehouse & Inventory Management</h3>
+
 - Brand Master
 - Iteam Catalog
 - Item Category
@@ -60,6 +63,7 @@ Our ERP provides modules for the following generic set of business concepts :
 - Unit Master
 
 <h3>Purchase</h3>
+
 - Goods Receive Note
 - Purchase Comparison
 - Purchase Invoice
@@ -71,10 +75,15 @@ Our ERP provides modules for the following generic set of business concepts :
 
 
 <h3>Transportation Management</h3>
+
 <h3>Manufacturing</h3>
+
 <h3>Performance Management</h3>
+
 <h3>Project Management</h3>
+
 <h3>CRM and Bid Management(Sales)</h3>
+
 - Customers/Prospects + Contacts management
 - Opportunities or Leads management
 - Commercial proposals management
@@ -83,19 +92,24 @@ Our ERP provides modules for the following generic set of business concepts :
 - Web Point of Sale (POS)
 
 <h3>Website Development</h3>
+
 <h3>Ecommerce Portal</h3>
+
 <h3>Electronic Data Interchange (EDI)</h3>
+
 <h3>Tax</h3>
+
 - Salary Tax
 - Tax Master
 <h3>Project</h3>
+
 - Project
 - Tasks
 
 
 Ecommerce Business Modules
 ==============================
- Product Management
+ <h3>Product Management</h3>
 
 - Products and/or Services catalog
 - Stock / Warehouse management + Inventory
@@ -104,17 +118,16 @@ Ecommerce Business Modules
 - Product Variants
 - Bill of Materials (BOM)
 - Manufacturing Orders
-
-1. Attributes Management
-2. Catalog Management
-3. Make to Order
-4. Configure To Order
-5. Order and Returns Management
-6. Multi Vendor Marketplace
-7. Administration
-8. Payment Gateway Integration
-9. Warehouse Integration
-10. Logistics Integration
+- Attributes Management
+- Catalog Management
+- Make to Order
+- Configure To Order
+- Order and Returns Management
+- Multi Vendor Marketplace
+- Administration
+- Payment Gateway Integration
+- Warehouse Integration
+- Logistics Integration
 
 Administration
 ========================
@@ -132,54 +145,6 @@ Administration
 12.	Roles
 13.	Users
 
-Main Modules
- 
-Financials, Inventory, Procurement ,HR and Payroll,Project and Sales
-
-Inventory 
-o The module deals with the stock maintenance. Tracking of Stocks in and out, Goods conversions, transfers and adjustments. The system has the facility to maintain
-stocks in batches with manufacture and expiry dates tracking.
-
-Procurement 
-o The module deals with purchase request, sending Purchase requests to multiple
-suppliers, receiving quotations, comparing quotations and generating Purchase
-orders to suppliers.
-
-Sales 
-o Sales deals with sales done from back office with sales enquiry, quotation, Stock
-reservation, Sales order, delivery, invoice. Packing list and commercial invoice is
-included for Export customers.
-
-Financials 
-a. Account grouping, Chart of accounts Control Account concept.
-b. Accounting Vouchers, Prepayments. Bank reconciliation, External Bill matching, PDC
-reminders, PDC discounting, Bank status query, Non-Stock item purchase/sale, Cash
-flow statement, Financial budget.
-c. Ledgers, Trial balance, Ratio Analysis, Receivables and Payables, Ledger Query,
-Transaction type wise ledger values, Issued Cheque Listing,
-Daybook and bank book, MTD, YTD Balance sheet and P&L
-
-General
-A. Barcode Scanning, Touch Selection and Product Look up.
-B. Multiple mode of settlement.
-C. Credit Sales and balance settlement.
-D. Facility to enter Goods Receipt and adjustment.
-E. Facility to enter financial vouchers.
-F. System supports levels of discount definitions.
-G. Access Control and Audit trial.
- 
-Main Features
-
-1.	Part no wise item search
-2.	Sales quotation creation,performa invoice
-3.	cash sales,credit sales,export sales,receipt
-4.	stock management
-5.	chart of accounts,trail balance,Balance sheet.
-6.	Daily operation report, sales man wise report.
-7.	negative stock cash sale entry
-8.	average cost calculation
-9.	financial year closing
-10.	advance receipt
 
 <h3>Reports</h3>
 Cash Sales Report
@@ -203,34 +168,39 @@ Credit Sales Report
 
 Export Sales
 
-d.	Financial Reports
-    i.	Financial Reports
-    ii.	Accounts Receivable
-    iii.	Accounts Payable
-    iv.	Employee Balance Report
-    v.	Satement Of Account
-e.	Financial Statements
-    i.	Profit and Loss A/c
-    ii.	Balance Sheet
-    iii.	Balance Sheet (Horizonal)
-    iv.	Trial Balance (as On Date)
-    v.	Trial Balance (Movement)
-    vi.	Trial Balance (Monthly)
-f.	Inventory Reports
-    i.	Item Barcode
-    ii.	Stock Register
-g.	Operation Reports
-    i.	Daily Operation Report
-    ii.	Daily Sales Report
-    iii.	Salesman Wise Sales
-    iv.	Daily Item Sales Ledger
-    v.	Daily Item Purchase Ledger
-    vi.	Salesman wise Report
-    vii.	Itemwise Sales Profit Analysis Report
-    viii.	Stock Register
-    ix.	Under Cost Sales Ledger
-    x.	Sales Analysis
-    xi.	Voucher Entires
+   - Financial Reports
+   - Accounts Receivable
+   - Accounts Payable
+   - Employee Balance Report
+   - Satement Of Account
+
+Financial Statements
+
+   - Profit and Loss A/c
+   - Balance Sheet
+   - Balance Sheet (Horizonal)
+   - Trial Balance (as On Date)
+   - Trial Balance (Movement)
+   - Trial Balance (Monthly)
+
+Inventory Reports
+
+   - Item Barcode
+   - Stock Register
+
+Operation Reports
+
+   - Daily Operation Report
+   - Daily Sales Report
+   - Salesman Wise Sales
+   - Daily Item Sales Ledger
+   - Daily Item Purchase Ledger
+   - Salesman wise Report
+   - Itemwise Sales Profit Analysis Report
+   - Stock Register
+   - Under Cost Sales Ledger
+   - Sales Analysis
+   - Voucher Entires
 
 Technical Modules
 ==============================
@@ -243,33 +213,20 @@ Technical Modules
 6. Dashboard Management
 7. Self-Service
 8. Collaboration(Email, SMS, Chat and Calendar)
- Collaboration
-
-- Shared calendar/agenda (with ical and vcal export for third party tools integration)
-- Projects & Tasks management
-- Ticket System
-- Surveys
-10. Organization Structure
-11. Data Export / Import
-12. UI Extension
-13. REST APIs for integration
-- Electronic Document Management (EDM)
-- Bookmarks management
-- Reporting
-- Data export/import
-- Barcodes
-- Margin calculations
-- LDAP connectivity
-- ClickToDial integration
-- Mass emailing
-- RSS integration
-- Skype integration
-- Social platforms linking
-- Payment platforms integration (PayPal, Stripe, Paybox...)
-- Email-Collector
+9. Projects & Tasks management
+10. Helpdesk System
+11. Surveys
+12. Organization Structure
+13. Data Export / Import
+14. UI Extension
+15. REST APIs for integration
+16. Data export/import
+17. Mass emailing
+18. Payment platforms integration (PayPal, Stripe, Paybox...)
 
 
-Typical Target institutions/organisations
+
+Target institutions/organizations
 =========================================
 
 1. Automotive
@@ -280,7 +237,7 @@ Typical Target institutions/organisations
 6. Higher Education
 
 
-Sofware Requirements
+Software Requirements
 ====================
 1. Java 1.8 or later
 2. Spring Boot 2.2 or later
