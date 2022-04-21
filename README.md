@@ -16,6 +16,10 @@ Our ERP provides modules for the following generic set of business concepts :
 ![image](https://user-images.githubusercontent.com/103935509/164368750-ad1ae83e-7b9f-4bd3-8d53-7bdeb12b5ab5.png)
 
 
+![image](https://user-images.githubusercontent.com/103935509/164368970-85ec0ef2-7d1f-49b0-b297-bcd818dc75e8.png)
+
+
+
 <h1>ERP Business Modules</h1>
 ==============================
 
