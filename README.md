@@ -13,6 +13,9 @@ extendable while providing generic functionality that is typically observed in
 most manufacturing environments. This ERP system also provides a fully functional EDI mapping tool for EDI translations and file traffic monitoring.
 Our ERP provides modules for the following generic set of business concepts : 
 
+![image](https://user-images.githubusercontent.com/103935509/164368750-ad1ae83e-7b9f-4bd3-8d53-7bdeb12b5ab5.png)
+
+
 <h1>ERP Business Modules</h1>
 ==============================
 
