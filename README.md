@@ -284,10 +284,12 @@ In a ERP, extensibility is a tool that allows you to change the application busi
 The key to extensibility is that you can develop pieces of code that best fit you customer business process and create the necessary functionality for themselves.
 
 With extensibility tools, you can:
-1) Add to a entity user-defined fields and user-defined tables.
-2) Change or add business rules at the user interface or API level.
-3) Add new items to the application menu.
-4) Add a new tab to an existing windows/entities.
+1) Add to a entity user-defined fields.
+2) Add new items to the application menu.
+3) Add a new tab to an existing windows/entities.
+4) Configure Business Workflows
+5) Customize Emiail Templates
+6) Customize dashboard
 
 ## License
 
@@ -370,7 +372,7 @@ Follow ou project on:
 - ERP Upgrade
 - ERP Customization
 - Custom Software Development
-- Education
-- Support
+- Training
+- Application Support
 
 ---------------------------------------------------------------
