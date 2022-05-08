@@ -256,30 +256,11 @@ Software Requirements
 
 # TODO
 
-1. Projects Management Module
-2. Help Desk Module
-3. Multi Currency
-4. Multi Language
-5. Multiple Operating Units
-- Localization in most major languages
-- Multi-Language Support
-- Multi-Users and groups with finely grained rights
-- Multi-Currency
-- Multi-Company (by adding of an external module)
-- Very user friendly and easy to use
-- customizable Dashboard
-- Highly customizable: enable only the modules you need, add user personalized fields, choose your skin, several menu managers (can be used by internal users as a back-office with a particular menu, or by external users as a front-office with another one)
-- APIs (REST, SOAP)
-- Code that is easy to understand, maintain and develop (PHP with no heavy framework; trigger and hook architecture)
-- Support a lot of country specific features:
-  - Spanish Tax RE and ISPF
-  - French NPR VAT rate (VAT called "Non Perçue Récupérable" for DOM-TOM)
-  - Canadian double taxes (federal/province) and other countries using cumulative VAT
-  - Tunisian tax stamp
-  - Argentina invoice numbering using A,B,C...
-  - Compatible with [European directives](https://europa.eu/legislation_summaries/taxation/l31057_en.htm) (2006/112/CE ... 2010/45/UE)
-  - Compatible with European GDPR rules
-- Flexible PDF & ODT generation for invoices, proposals, orders...
+1. Multi Currency
+2. Multi Language
+3. Multiple Operating Units
+4. Country specific Localization
+
 
 
 # Issues
@@ -362,12 +343,9 @@ http://nuncho.com/
 
 ## WHAT this ERP CAN'T DO YET
 
-These are features that Dolibarr does **not** yet fully support:
+These are features that does **not** yet fully support:
 
-- Tasks dependencies in projects
-- Payroll module
-- No native embedded Webmail, but you can send email to contacts in Dolibarr with e.g. offers, invoices, etc.
-- Dolibarr can't do coffee (yet)
+- TBD
 
 ## DOCUMENTATION
 
@@ -376,13 +354,13 @@ Administrator, user, developer and translator's documentations are available alo
 
 ## NEWS AND SOCIAL NETWORKS
 
-Follow Dolibarr project on:
+Follow ou project on:
 
-- [Facebook](https://www.facebook.com/dolibarr)
-- [Twitter](https://www.twitter.com/dolibarr)
-- [LinkedIn](https://www.linkedin.com/company/association-dolibarr)
-- [YouTube](https://www.youtube.com/user/DolibarrERPCRM)
-- [GitHub](https://github.com/Dolibarr/dolibarr)
+- [Facebook](https://www.facebook.com/erpecomsmb)
+- [Twitter](https://www.twitter.com/erpecomsmb)
+- [LinkedIn](https://www.linkedin.com/company/erpecomsmb)
+- [YouTube](https://www.youtube.com/user/erpecomsmb)
+- [GitHub](https://github.com/ecomerp)
 
 
 # Services
