@@ -260,21 +260,6 @@ Our ERP provides modules for the following generic set of business concepts :
 
 <h3>Electronic Data Interchange (EDI) ANSI X12 or EDIFACT </h3>
 
-- EDI X12 Transaction Number	            EDI Transaction Name / Document Type
-- -----------------------------------------------------------------------------
-- EDI 196                                Contractor Cost Data Reporting
-- EDI 830                                Planning Schedule with Release Capability
-- EDI 844                                Product Transfer Account Adjustment
-- EDI 846                                Inventory Inquiry/Advice
-- EDI 849                                Response to Product Transfer Account Adjustment
-- EDI 852                                Product Activity Data
-- EDI 861                                Receiving Advice/Acceptance Certificate
-- EDI 866                                Production Sequence
-- EDI 867                                Product Transfer and Resale Report
-- EDI 869                                Order Status Inquiry
-- EDI 870                                Order Status Report
-- EDI 894                                Delivery/Return Base Record
-- EDI 895                                Delivery/Return Acknowledgment or Adjustment
 
 <h3>Tax</h3>
 
