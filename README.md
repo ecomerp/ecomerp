@@ -275,11 +275,7 @@ Our ERP provides modules for the following generic set of business concepts :
 - Task Board
 - Resource Scheduling
 
-
-
-Ecommerce Business Modules
-==============================
- <h3>Product Management</h3>
+## Ecommerce Business Modules
 
 - Products and/or Services catalog
 - Stock / Warehouse management + Inventory
@@ -298,8 +294,7 @@ Ecommerce Business Modules
 - Logistics Integration
 
 
-Technical Modules
-==============================
+## Technical Modules
 
 1. Security Management
 2. Reports Management
@@ -321,8 +316,7 @@ Technical Modules
 
 
 
-Target institutions/organizations
-=========================================
+## Target institutions/organizations
 
 1. Automotive
 2. Manufacturing
@@ -332,8 +326,8 @@ Target institutions/organizations
 6. Higher Education
 
 
-Software Requirements
-====================
+## Software Requirements
+
 
 1. Java 1.8 or later
 2. Spring Boot 2.2 or later
@@ -343,8 +337,8 @@ Software Requirements
 6. Ubuntu 18.01 LTS or later
 
 
-# TODO
-=============================
+## TODO List
+
 1. Multi Currency
 2. Multi Language
 3. Multiple Operating Units
@@ -354,13 +348,12 @@ Software Requirements
 7. Administrator, user, developer and translator's documentations
 
 
+## License
 
-# License
-======================
 This project is protected by propretory license
 
-# Extensibility
-=====================================
+## Extensibility
+
 1) Add to a entity user-defined fields.
 2) Add new items to the application menu.
 3) Add a new tab to an existing windows/entities.
@@ -368,15 +361,14 @@ This project is protected by propretory license
 5) Customize Emiail Templates
 6) Customize dashboard
 
-Demo Environment
-=================
+## Demo Environment
 
-url       : https://erp.nuncho.com
-Username  :  ADMIN
-Password  :  123 
+- url       : https://erp.nuncho.com
+- Username  :  ADMIN
+- Password  :  123 
 
 
-# Services
+## Services
 
 - ERP Assessment
 - Implementation
