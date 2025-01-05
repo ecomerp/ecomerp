@@ -76,41 +76,41 @@ Nuncho Software is a leading provider of innovative ERP (Enterprise Resource Pla
 ### Competitive Advantage
 
 + Improved Efficiency and Productivity
-	Automation of Routine Tasks
-	Streamlined Operations
+    + Automation of Routine Tasks
+    + Streamlined Operations
 + Enhanced Decision-Making with Real-Time Data
-	Centralized Data Repository
-	Real-Time Analytics and Reporting
+    + Centralized Data Repository
+    + Real-Time Analytics and Reporting
 + Better Financial Management and Control
-	Improved Financial Visibility
-	Budgeting and Forecasting
+    + Improved Financial Visibility
+    + Budgeting and Forecasting
 + Scalability and Flexibility
-	Modular and Scalable Solutions
-	Customization
+    + Modular and Scalable Solutions
+    + Customization
 +  Enhanced Customer Service and Experience
-	Improved Order Fulfillment
-	Personalized Customer Interactions
+    + Improved Order Fulfillment
+    + Personalized Customer Interactions
 + Greater Collaboration and Communication
-	Integrated Workflows.
-	Improved Project Management
+    + Integrated Workflows.
+    + Improved Project Management
 +  Regulatory Compliance and Risk Management
-	Automated Compliance Reporting
-	Enhanced Security and Data Integrity
+    + Automated Compliance Reporting
+    + Enhanced Security and Data Integrity
 + Cost Reduction and Improved Profitability
-	Reduced Operational Costs
-	Inventory Optimization
+    + Reduced Operational Costs
+    + Inventory Optimization
 + Agility and Adaptability to Market Changes
-	Quick Response to Market Dynamics
-	Support for Digital Transformation
+    + Quick Response to Market Dynamics
+    + Support for Digital Transformation
 + Better Supply Chain Management
-	Optimized Supply Chain Processes
-	Reduced Lead Times
+    + Optimized Supply Chain Processes
+    + Reduced Lead Times
 + Increased Employee Satisfaction and Productivity
-	User-Friendly Tools
-	Access to Information
+    + User-Friendly Tools
+    + Access to Information
 + Competitive Edge Through Innovation
-	Adoption of Advanced Technologies
-	Continuous Improvement
+    + Adoption of Advanced Technologies
+    + Continuous Improvement
 
 
 
