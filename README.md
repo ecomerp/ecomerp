@@ -280,8 +280,7 @@ Our ERP provides modules for the following generic set of business concepts :
 
 - configuring various tax zones, codes, rates, and rules
 - setting up sales tax, value-added tax (VAT), goods and services tax (GST), Income Tax rates
-- 
-- 
+  
 <h3>Project</h3>
 
 - Projects
