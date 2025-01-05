@@ -1,3 +1,23 @@
+##Company Overview
+Nuncho Software’s mission is to enable companies to operate at their full potential by delivering ERP solutions that are intuitive, scalable, and tailored to meet evolving business needs.
+
+###Tables
+
+Enable Companies to Operate at Their Full Potential | Efficiency, Accuracy, and Agility
+Delivering ERP Solutions That Are Intuitive, Scalable, and Tailored  | Empowering Businesses
+Meet Evolving Business Needs | Streamline Operations and Enhance Decision-Making
+Seamless Integration Across All Business Functions | Adapt Quickly to Market Changes
+Innovative, User-Friendly Software | Fostering a Culture of Continuous Improvement and Long-Term Growth
+
+
+
+
+
+
+
+
+
+
 # Web Based Ecommerce and ERP Application
 
 Enterprise Resource Planning System (Web Version)
