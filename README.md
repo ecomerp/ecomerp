@@ -143,7 +143,7 @@ Nuncho Software is committed to transforming the way businesses operate through 
 
 # Pricing Options
 
-+ Perpetual License
++ Software Purchase
     - Known throughout the industry as “perpetual license” pricing, purchasing NUNCHO means that you pay one time to own the software for ever. Purchased software is sold with a Annual maintenance contract, renewable each year, that covers continued development and technical support.
 + Subscription
     - Pay an Annual fee to use Nuncho over a three to five year term. Your annual subscription includes all maintenance, support and product development fees and is automatically billed to you at the start of the year.
