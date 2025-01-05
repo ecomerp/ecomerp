@@ -130,6 +130,8 @@ Nuncho Software is committed to transforming the way businesses operate through 
 
 ### PathFinder Method
 
+An iterative approach for SaaS ERP implementation focuses on delivering the ERP system in incremental stages, allowing for continuous improvement and adaptation based on user feedback and evolving business needs. This approach reduces risks, accelerates time to value, and ensures that the ERP system is aligned with the organization’s goals throughout the implementation process. This methodology emphasizes incremental delivery, stakeholder engagement, and adaptability. The implementation is broken down into several iterations or cycles, each lasting typically 2-4 weeks, allowing for continuous improvements and feedback integration.
+
 ![image](https://github.com/user-attachments/assets/debf4b76-105e-49c5-b55b-e6184502a60e)
 
 ## Deployment Options
