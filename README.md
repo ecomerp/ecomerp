@@ -1,4 +1,4 @@
-##Company Overview
+# Company Overview
 
 Nuncho Software’s mission is to enable companies to operate at their full potential by delivering ERP solutions that are intuitive, scalable, and tailored to meet evolving business needs.
 
@@ -132,7 +132,7 @@ Nuncho Software is committed to transforming the way businesses operate through 
 
 ![image](https://github.com/user-attachments/assets/debf4b76-105e-49c5-b55b-e6184502a60e)
 
-# Deployment Options
+## Deployment Options
 
 + Private Cloud
     - NUNCHO ERP can be deployed in the cloud for a monthly/annual hosting fee. A Private Cloud deployment lowers IT infrastructure overhead and ensures access to data around-the-clock within a managed data centre. Private Cloud allows companies with remote sites to share the same Nuncho installation and data, enabling multi-site ERP software access. Costs of servers and other IT infrastructure needs are not included with Nuncho ERP software or implementation costs.
@@ -141,7 +141,7 @@ Nuncho Software is committed to transforming the way businesses operate through 
     - Software as a Service (SaaS) allows customers to subscribe to and use application software in the cloud rather than having to buy the hardware or license the software. You simply purchase ERP subscription from Nuncho Software for a monthly/Annual subscription fee and the service is delivered to you over the internet. A modern cloud suite provides complete software for your entire business so that you can subscribe to certain SaaS applications for your finance, supply chain, human resources, customer experience, sales, and marketing organizations.
 
 
-# Pricing Options
+## Pricing Options
 
 + Software Purchase
     - Known throughout the industry as “perpetual license” pricing, purchasing NUNCHO means that you pay one time to own the software for ever. Purchased software is sold with a Annual maintenance contract, renewable each year, that covers continued development and technical support.
@@ -153,7 +153,7 @@ Nuncho Software is committed to transforming the way businesses operate through 
 
 
 
-# Web Based Ecommerce and ERP Application
+## Web Based Ecommerce and ERP Application
 
 Enterprise Resource Planning System (Web Version)
 
