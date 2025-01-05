@@ -126,7 +126,8 @@ Nuncho Software is committed to transforming the way businesses operate through 
 
 ### Our Modernization Plan Brings You the Best of Nuncho
 
-![image](https://github.com/user-attachments/assets/3810c8f7-840f-4857-aa27-ad21995deb6b)
+![image](https://github.com/user-attachments/assets/2d7008b9-e2d2-4408-b0b6-50c508c9c30f)
+
 
 
 
