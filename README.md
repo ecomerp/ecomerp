@@ -73,7 +73,8 @@ Our ERP provides modules for the following generic set of business concepts :
 - Bill of Material(BoM)
 - Forecasting
 - MRP(Planning, Scheduling & Execution)
-- Equipment Maintenance 
+- Equipment Maintenance
+- Work Orders
 
 <h3>Performance Management</h3>
 - Predefined KPI's
@@ -105,17 +106,34 @@ Our ERP provides modules for the following generic set of business concepts :
 - Expense Management
 - Maintenance
 
-<h3>Electronic Data Interchange (EDI)</h3>
-- Expense Management
-- Maintenance
+<h3>Electronic Data Interchange (EDI) ANSI X12 or EDIFACT </h3>
+EDI X12 Transaction Number	            EDI Transaction Name / Document Type
+-----------------------------------------------------------------------------
+EDI 196                                Contractor Cost Data Reporting
+EDI 830                                Planning Schedule with Release Capability
+EDI 844                                Product Transfer Account Adjustment
+EDI 846                                Inventory Inquiry/Advice
+EDI 849                                Response to Product Transfer Account Adjustment
+EDI 852                                Product Activity Data
+EDI 861                                Receiving Advice/Acceptance Certificate
+EDI 866                                Production Sequence
+EDI 867                                Product Transfer and Resale Report
+EDI 869                                Order Status Inquiry
+EDI 870                                Order Status Report
+EDI 894                                Delivery/Return Base Record
+EDI 895                                Delivery/Return Acknowledgment or Adjustment
 
 <h3>Tax</h3>
-- Salary Tax
-- Tax Master
+- configuring various tax zones, codes, rates, and rules
+- setting up sales tax, value-added tax (VAT), goods and services tax (GST), Income Tax rates
+- 
 - 
 <h3>Project</h3>
-- Project
-- Tasks
+- Projects
+- Gantt Chart
+- Task Board
+- Resource Scheduling
+
 
 
 Ecommerce Business Modules
@@ -127,8 +145,6 @@ Ecommerce Business Modules
 - Barcodes
 - Batches / Lots / Serials
 - Product Variants
-- Bill of Materials (BOM)
-- Manufacturing Orders
 - Attributes Management
 - Catalog Management
 - Make to Order
@@ -140,78 +156,6 @@ Ecommerce Business Modules
 - Warehouse Integration
 - Logistics Integration
 
-Administration
-========================
-1.	Account Settings
-2.	Authorization
-3.	Branch
-4.	Chart Of Accounts
-5.	Currency
-6.	Department
-7.	DiaDyn Settings
-8.	Exchange Rate
-9.	Financial Year
-10.	Master Settings
-11.	Role Assignment
-12.	Roles
-13.	Users
-
-
-<h3>Reports</h3>
-Cash Sales Report
-
-- Cash Sales Return
-- Net Cash Sales
--  Cash Sales Profit Analysis
-- Date-wise Cash Sales Summary
-- Month-wise Cash Sales Summary
-- Cashier Reports
-- Cash Book
-
-Credit Sales Report
-
-   - Credit Sales
-   - Credit Sales Return
-   - Net Credit Sales
-   - Credit Sales Profit Analysis
-   - Date-wise Credit Sales Summary
-   - Month-wise Credit Sales Summary
-
-Export Sales
-
-   - Financial Reports
-   - Accounts Receivable
-   - Accounts Payable
-   - Employee Balance Report
-   - Satement Of Account
-
-Financial Statements
-
-   - Profit and Loss A/c
-   - Balance Sheet
-   - Balance Sheet (Horizonal)
-   - Trial Balance (as On Date)
-   - Trial Balance (Movement)
-   - Trial Balance (Monthly)
-
-Inventory Reports
-
-   - Item Barcode
-   - Stock Register
-
-Operation Reports
-
-   - Daily Operation Report
-   - Daily Sales Report
-   - Salesman Wise Sales
-   - Daily Item Sales Ledger
-   - Daily Item Purchase Ledger
-   - Salesman wise Report
-   - Itemwise Sales Profit Analysis Report
-   - Stock Register
-   - Under Cost Sales Ledger
-   - Sales Analysis
-   - Voucher Entires
 
 Technical Modules
 ==============================
@@ -224,16 +168,15 @@ Technical Modules
 6. Dashboard Management
 7. Self-Service
 8. Collaboration(Email, SMS, Chat and Calendar)
-9. Projects & Tasks management
+9. Process & Tasks management
 10. Helpdesk System
-11. Surveys
+11. Checklists & Surveys
 12. Organization Structure
 13. Data Export / Import
 14. UI Extension
 15. REST APIs for integration
-16. Data export/import
-17. Mass emailing
-18. Payment platforms integration (PayPal, Stripe, Paybox...)
+16. Emailing Templates
+17. Payment platforms integration (PayPal, Stripe, Paybox...)
 
 
 
@@ -264,18 +207,11 @@ Software Requirements
 2. Multi Language
 3. Multiple Operating Units
 4. Country specific Localization
+5. AI Agent based Recommendation Engine
+6. Generative AI base Chatbot
+7. Administrator, user, developer and translator's documentations
 
 
-
-# Issues
-
-If you have any problems with or questions about this image, please contact us through a GitHub issue.
-
-# Contributing
-
-You are invited to contribute new features, fixes, or updates, large or small; we are always thrilled to receive pull requests, and do our best to process them as fast as we can.
-
-Before you start to code, we recommend discussing your plans through a GitHub issue, especially for more ambitious contributions. This gives other contributors a chance to point you in the right direction, give you feedback on your design, and help you find out if someone else is working on the same thing.
 
 # License
 
@@ -284,10 +220,6 @@ This project is protected by propretory license
 ---------------------------------------------------------------------
 # Extensibility
 
-In a ERP, extensibility is a tool that allows you to change the application business workflow or add extra business rules to implement your unique business processes.
-The key to extensibility is that you can develop pieces of code that best fit you customer business process and create the necessary functionality for themselves.
-
-With extensibility tools, you can:
 1) Add to a entity user-defined fields.
 2) Add new items to the application menu.
 3) Add a new tab to an existing windows/entities.
@@ -295,88 +227,16 @@ With extensibility tools, you can:
 5) Customize Emiail Templates
 6) Customize dashboard
 
-## License
+Demo Environment
+=================
 
-Unless otherwise specified, the code samples are released under the [MIT license](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT).
------------------------------------------------------------
- ERP Software
-  
-This software can be described as a complete business software solution.It has module such as sales , purchase  ,inventory,Accounts. please check below demo link.
- 
-Project Demo
-https://erp.nuncho.com
-
-Username:  ADMIN
-Password:  123 
-
-Website 
-http://nuncho.com/
- 
-
-# Role Based Access Control - User Management Microservice
-===========================================================
-
-#### User management features
-
-* Register a new user account
-* Login with username & password
-* Retrieve a single user account
-* Retrieve the list of all the existing user accounts
-* Update user account data (basic user data, contacts, address)
-* Add or remove a role on an user account
-* Delete a user account
-* Define secured accounts that cannot be deleted but only modified
-* Standard validation for email, phone, password
-
-#### RBAC features: manages roles and permissions
-
-* Retrieve all the permissions
-* Retrieve the list of the existing roles
-* Create a new role
-* Retrieve a single role
-* Delete a role
-* Add a permission on a role
-* Remove a permission on a role
-* Create a new permission
-* Update an existing permission (also enabled or disable it)
-* Retrieve single permission
-* Delete not used permission
-* Api to generate a salt random value to encrypt password (configuration)
-* ----------------------------------------------------------------
-
-![image](https://user-images.githubusercontent.com/103935509/163830612-8ebc4c2e-cb0c-4e66-92e7-17b7ae291b0a.png)
-
-
-## WHAT this ERP CAN'T DO YET
-
-These are features that does **not** yet fully support:
-
-- TBD
-
-## DOCUMENTATION
-
-Administrator, user, developer and translator's documentations are available along with other community resources in the [Wiki](https://wiki.dolibarr.org).
-
-
-## NEWS AND SOCIAL NETWORKS
-
-Follow ou project on:
-
-- [Facebook](https://www.facebook.com/erpecomsmb)
-- [Twitter](https://www.twitter.com/erpecomsmb)
-- [LinkedIn](https://www.linkedin.com/company/erpecomsmb)
-- [YouTube](https://www.youtube.com/user/erpecomsmb)
-- [GitHub](https://github.com/ecomerp)
+url       : https://erp.nuncho.com
+Username  :  ADMIN
+Password  :  123 
 
 
 # Services
 
-- Need and Fitment Assessment
-- ERP Implementation Services (Fixed Price/Time & Material/Staff Augmentation)
-- ERP Upgrade
-- ERP Customization
-- Custom Software Development
-- Training
-- Application Support
+
 
 ---------------------------------------------------------------
