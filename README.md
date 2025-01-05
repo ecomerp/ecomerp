@@ -25,49 +25,31 @@ Our ERP provides modules for the following generic set of business concepts :
 
 <h3>Human Resources</h3>
 
-- Attendance
-- Deduction
-- Employee
-- Leave Category
-- Leave policy
-- Leave Request
-- Other Request
-- Payroll
-- Shift
-- Expense reports
+- Employee Records Management
+- Time and Attendance MAnagement
+- Payroll Processing
 - Recruitment management
-- Timesheets
-
+- Basic Benefits & Compensation Management
+- Learning Management
+- Talent and Appraisal Management
+- Employee Helpdesk
 
 <h3>Financials</h3>
 
-- Bank Payment
-- Bank Reconcile
-- Cash Deposit
-- Cash Payment
-- Cheque Deposit
-- Journal Voucher
-- Opening Balance
-- Prepaid Expenses
-- Receipt
-- Receipt Advance
+- Cash Management
+- General Ledger
+- Fixed Assets
 - Payables MAnagement
 - Receivables MAnagement
 
 
 <h3>Warehouse & Inventory Management</h3>
 
-- Brand Master
-- Iteam Catalog
-- Item Category
-- Item Inquiry
-- Item Master
-- ItemType
-- Opening Stock
-- Stock Adjustment
-- Stock Request
-- Stock Transfer
-- Unit Master
+- Item Master & Catalog Management
+- Item Attributes Management
+- Locator and Store Management
+- Stock Issue, Pick, Putaway
+- Move and Transfer
 
 <h3>Purchase</h3>
 
@@ -81,15 +63,27 @@ Our ERP provides modules for the following generic set of business concepts :
 - Supplier Master
 
 
-<h3>Transportation Management</h3>
+<h3>Fleet Management</h3>
+- Fleet Management
+- Driver Allocation
+- Expense Management
+- Maintenance
 
 <h3>Manufacturing</h3>
+- Expense Management
+- Maintenance
 
 <h3>Performance Management</h3>
+- Expense Management
+- Maintenance
 
 <h3>Project Management</h3>
+- Expense Management
+- Maintenance
 
-<h3>CRM and Bid Management(Sales)</h3>
+<h3>Tender/Bid Management(Sales)</h3>
+- Expense Management
+- Maintenance
 
 - Customers/Prospects + Contacts management
 - Opportunities or Leads management
@@ -99,17 +93,22 @@ Our ERP provides modules for the following generic set of business concepts :
 - Web Point of Sale (POS)
 
 <h3>Website Development</h3>
+- Expense Management
+- Maintenance
 
 <h3>Ecommerce Portal</h3>
+- Expense Management
+- Maintenance
 
 <h3>Electronic Data Interchange (EDI)</h3>
+- Expense Management
+- Maintenance
 
 <h3>Tax</h3>
-
 - Salary Tax
 - Tax Master
+- 
 <h3>Project</h3>
-
 - Project
 - Tasks
 
