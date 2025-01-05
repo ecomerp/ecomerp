@@ -128,6 +128,28 @@ Nuncho Software is committed to transforming the way businesses operate through 
 
 ![image](https://github.com/user-attachments/assets/2d7008b9-e2d2-4408-b0b6-50c508c9c30f)
 
+### PathFinder Method
+
+![image](https://github.com/user-attachments/assets/debf4b76-105e-49c5-b55b-e6184502a60e)
+
+# Deployment Options
+
++ Private Cloud
+    - NUNCHO ERP can be deployed in the cloud for a monthly/annual hosting fee. A Private Cloud deployment lowers IT infrastructure overhead and ensures access to data around-the-clock within a managed data centre. Private Cloud allows companies with remote sites to share the same Nuncho installation and data, enabling multi-site ERP software access. Costs of servers and other IT infrastructure needs are not included with Nuncho ERP software or implementation costs.
+
++ SaaS(Software-as-a-Service)
+    - Software as a Service (SaaS) allows customers to subscribe to and use application software in the cloud rather than having to buy the hardware or license the software. You simply purchase ERP subscription from Nuncho Software for a monthly/Annual subscription fee and the service is delivered to you over the internet. A modern cloud suite provides complete software for your entire business so that you can subscribe to certain SaaS applications for your finance, supply chain, human resources, customer experience, sales, and marketing organizations.
+
+
+# Pricing Options
+
++ Perpetual License
+    - Known throughout the industry as “perpetual license” pricing, purchasing NUNCHO means that you pay one time to own the software for ever. Purchased software is sold with a Annual maintenance contract, renewable each year, that covers continued development and technical support.
++ Subscription
+    - Pay an Annual fee to use Nuncho over a three to five year term. Your annual subscription includes all maintenance, support and product development fees and is automatically billed to you at the start of the year.
++ Enterprise Licensing
+    - Keep software costs predictable and under control when deploying Nuncho ERP across multiple units in your enterprise, even as business requirements evolve and usage demands on the software increase, we are there with you. Ask for special discount on every subsequent implementation.
+
 
 
 
