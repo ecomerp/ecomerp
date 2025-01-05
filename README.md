@@ -64,12 +64,14 @@ Our ERP provides modules for the following generic set of business concepts :
 
 
 <h3>Fleet Management</h3>
+
 - Fleet Management
 - Driver Allocation
 - Expense Management
 - Maintenance
 
 <h3>Manufacturing</h3>
+
 - Bill of Material(BoM)
 - Forecasting
 - MRP(Planning, Scheduling & Execution)
@@ -77,19 +79,14 @@ Our ERP provides modules for the following generic set of business concepts :
 - Work Orders
 
 <h3>Performance Management</h3>
+
 - Predefined KPI's
 - KPI Customization
 - KPI Monitoring
 - Role Based Dashboard Access
 
 
-<h3>Project Management</h3>
-- Expense Management
-- Maintenance
-
 <h3>Tender/Bid Management(Sales)</h3>
-- Expense Management
-- Maintenance
 
 - Customers/Prospects + Contacts management
 - Opportunities or Leads management
@@ -99,14 +96,15 @@ Our ERP provides modules for the following generic set of business concepts :
 - Web Point of Sale (POS)
 
 <h3>Website Development</h3>
-- Expense Management
-- Maintenance
 
-<h3>Ecommerce Portal</h3>
-- Expense Management
-- Maintenance
+- Integrated Website
+- Customer Portal
+- Supplier Portal
+- Careers Portal
+- Partner Portal
 
 <h3>Electronic Data Interchange (EDI) ANSI X12 or EDIFACT </h3>
+
 EDI X12 Transaction Number	            EDI Transaction Name / Document Type
 -----------------------------------------------------------------------------
 EDI 196                                Contractor Cost Data Reporting
