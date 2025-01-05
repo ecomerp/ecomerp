@@ -105,28 +105,30 @@ Our ERP provides modules for the following generic set of business concepts :
 
 <h3>Electronic Data Interchange (EDI) ANSI X12 or EDIFACT </h3>
 
-EDI X12 Transaction Number	            EDI Transaction Name / Document Type
------------------------------------------------------------------------------
-EDI 196                                Contractor Cost Data Reporting
-EDI 830                                Planning Schedule with Release Capability
-EDI 844                                Product Transfer Account Adjustment
-EDI 846                                Inventory Inquiry/Advice
-EDI 849                                Response to Product Transfer Account Adjustment
-EDI 852                                Product Activity Data
-EDI 861                                Receiving Advice/Acceptance Certificate
-EDI 866                                Production Sequence
-EDI 867                                Product Transfer and Resale Report
-EDI 869                                Order Status Inquiry
-EDI 870                                Order Status Report
-EDI 894                                Delivery/Return Base Record
-EDI 895                                Delivery/Return Acknowledgment or Adjustment
+- EDI X12 Transaction Number	            EDI Transaction Name / Document Type
+- -----------------------------------------------------------------------------
+- EDI 196                                Contractor Cost Data Reporting
+- EDI 830                                Planning Schedule with Release Capability
+- EDI 844                                Product Transfer Account Adjustment
+- EDI 846                                Inventory Inquiry/Advice
+- EDI 849                                Response to Product Transfer Account Adjustment
+- EDI 852                                Product Activity Data
+- EDI 861                                Receiving Advice/Acceptance Certificate
+- EDI 866                                Production Sequence
+- EDI 867                                Product Transfer and Resale Report
+- EDI 869                                Order Status Inquiry
+- EDI 870                                Order Status Report
+- EDI 894                                Delivery/Return Base Record
+- EDI 895                                Delivery/Return Acknowledgment or Adjustment
 
 <h3>Tax</h3>
+
 - configuring various tax zones, codes, rates, and rules
 - setting up sales tax, value-added tax (VAT), goods and services tax (GST), Income Tax rates
 - 
 - 
 <h3>Project</h3>
+
 - Projects
 - Gantt Chart
 - Task Board
@@ -191,6 +193,7 @@ Target institutions/organizations
 
 Software Requirements
 ====================
+
 1. Java 1.8 or later
 2. Spring Boot 2.2 or later
 3. ReactJS 16.8
@@ -200,7 +203,7 @@ Software Requirements
 
 
 # TODO
-
+=============================
 1. Multi Currency
 2. Multi Language
 3. Multiple Operating Units
@@ -212,12 +215,11 @@ Software Requirements
 
 
 # License
-
+======================
 This project is protected by propretory license
 
----------------------------------------------------------------------
 # Extensibility
-
+=====================================
 1) Add to a entity user-defined fields.
 2) Add new items to the application menu.
 3) Add a new tab to an existing windows/entities.
@@ -235,6 +237,13 @@ Password  :  123
 
 # Services
 
-
+- ERP Assessment
+- Implementation
+- Data Migration
+- Integration
+- Training
+- Project Management
+- Testing
+- Support
 
 ---------------------------------------------------------------
