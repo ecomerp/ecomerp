@@ -350,7 +350,7 @@ Our ERP provides modules for the following generic set of business concepts :
 
 ## License
 
-This project is protected by propretory license
+This project is protected by proprietary license
 
 ## Extensibility
 
@@ -364,8 +364,8 @@ This project is protected by propretory license
 ## Demo Environment
 
 - url       : https://erp.nuncho.com
-- Username  :  ADMIN
-- Password  :  123 
+- Username  :  ********
+- Password  :  ********
 
 
 ## Services
