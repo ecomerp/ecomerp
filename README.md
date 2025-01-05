@@ -39,8 +39,8 @@ Our ERP provides modules for the following generic set of business concepts :
 - Cash Management
 - General Ledger
 - Fixed Assets
-- Payables MAnagement
-- Receivables MAnagement
+- Payables Management
+- Receivables Management
 
 
 <h3>Warehouse & Inventory Management</h3>
@@ -70,12 +70,17 @@ Our ERP provides modules for the following generic set of business concepts :
 - Maintenance
 
 <h3>Manufacturing</h3>
-- Expense Management
-- Maintenance
+- Bill of Material(BoM)
+- Forecasting
+- MRP(Planning, Scheduling & Execution)
+- Equipment Maintenance 
 
 <h3>Performance Management</h3>
-- Expense Management
-- Maintenance
+- Predefined KPI's
+- KPI Customization
+- KPI Monitoring
+- Role Based Dashboard Access
+
 
 <h3>Project Management</h3>
 - Expense Management
