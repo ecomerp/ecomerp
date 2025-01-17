@@ -363,7 +363,7 @@ This project is protected by proprietary license
 
 ## Demo Environment
 
-- url       : http://erp.nuncho.com
+- url       : <Please request for url>
 - Username  :  ********
 - Password  :  ********
 
